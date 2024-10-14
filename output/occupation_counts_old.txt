@@ -1,0 +1,80 @@
+Occupation not listed, Count: 77
+actor, Count: 24
+actress, Count: 22
+Error retrieving page: argument of type 'NoneType' is not iterable, Count: 15
+singer, Count: 15
+songwriter, Count: 14
+producer, Count: 8
+model, Count: 7
+writer, Count: 5
+novelist, Count: 4
+journalist, Count: 4
+politician, Count: 4
+musician, Count: 4
+film director, Count: 4
+record producer, Count: 3
+author, Count: 3
+poet, Count: 3
+businessman, Count: 3
+rapper, Count: 3
+screenwriter, Count: 3
+composer, Count: 2
+translator, Count: 2
+dancer, Count: 2
+film producer, Count: 2
+radio host, Count: 2
+director, Count: 2
+singer-songwriter, Count: 2
+film and television actor, Count: 1
+politician and lawyer, Count: 1
+revolutionary, Count: 1
+athlete /coach (sports authority of india ), Count: 1
+stuntman, Count: 1
+voice acting in japan, Count: 1
+voice actor, Count: 1
+narration, Count: 1
+narrator, Count: 1
+stage, Count: 1
+film actress, Count: 1
+professor-emeritus of ecumenics and mission, Count: 1
+broadcasting, Count: 1
+radio broadcaster, Count: 1
+architect, Count: 1
+composer; soloist, Count: 1
+essayist, Count: 1
+naval surgeon, Count: 1
+singer fitness instructor, Count: 1
+host, Count: 1
+data scientist, Count: 1
+arranger, Count: 1
+pastor, Count: 1
+media executive, Count: 1
+parliamentarian, Count: 1
+organist, Count: 1
+author and columnist, Count: 1
+economist, Count: 1
+businesswoman, Count: 1
+entertainer, Count: 1
+military officer, Count: 1
+lawyer, Count: 1
+educator, Count: 1
+locksmith, Count: 1
+teacher, Count: 1
+mountaineer, Count: 1
+sportsperson, Count: 1
+sportsman, Count: 1
+geographer, Count: 1
+travel writer, Count: 1
+deejay (jamaican), Count: 1
+deejay, Count: 1
+animal-rights activist, Count: 1
+environmentalist, Count: 1
+tv personality, Count: 1
+guitarist, Count: 1
+playwright, Count: 1
+entrepreneur, Count: 1
+model (person), Count: 1
+television talk show host, Count: 1
+comedian, Count: 1
+television host, Count: 1
+philanthropist, Count: 1

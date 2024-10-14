@@ -1,0 +1,4491 @@
+{
+  "singer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "music": 18
+      },
+      {
+        "country": 17
+      },
+      {
+        "singer": 16
+      },
+      {
+        "singles": 12
+      },
+      {
+        "chart": 12
+      },
+      {
+        "songs": 12
+      },
+      {
+        "album": 11
+      },
+      {
+        "texas": 10
+      },
+      {
+        "single": 9
+      },
+      {
+        "band": 9
+      },
+      {
+        "american": 8
+      },
+      {
+        "albums": 8
+      },
+      {
+        "billboard": 8
+      },
+      {
+        "including": 7
+      },
+      {
+        "debut": 7
+      },
+      {
+        "film": 7
+      },
+      {
+        "chinese": 7
+      },
+      {
+        "released": 7
+      },
+      {
+        "pritchett": 7
+      },
+      {
+        "march": 6
+      }
+    ]
+  },
+  "actress": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "actress": 26
+      },
+      {
+        "films": 18
+      },
+      {
+        "film": 16
+      },
+      {
+        "role": 12
+      },
+      {
+        "best": 9
+      },
+      {
+        "first": 9
+      },
+      {
+        "walters": 9
+      },
+      {
+        "roles": 7
+      },
+      {
+        "american": 7
+      },
+      {
+        "made": 6
+      },
+      {
+        "career": 6
+      },
+      {
+        "series": 6
+      },
+      {
+        "appeared": 6
+      },
+      {
+        "released": 6
+      },
+      {
+        "television": 5
+      },
+      {
+        "played": 5
+      },
+      {
+        "show": 5
+      },
+      {
+        "indian": 5
+      },
+      {
+        "dominique": 5
+      },
+      {
+        "video": 5
+      }
+    ]
+  },
+  "businesswoman": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "businesswoman": 16
+      },
+      {
+        "former": 14
+      },
+      {
+        "state": 10
+      },
+      {
+        "city": 10
+      },
+      {
+        "laredo": 9
+      },
+      {
+        "bentley": 9
+      },
+      {
+        "member": 8
+      },
+      {
+        "williams": 8
+      },
+      {
+        "american": 7
+      },
+      {
+        "paloma": 7
+      },
+      {
+        "swimming": 7
+      },
+      {
+        "district": 6
+      },
+      {
+        "picasso": 6
+      },
+      {
+        "first": 6
+      },
+      {
+        "house": 6
+      },
+      {
+        "arkansas": 6
+      },
+      {
+        "republican": 5
+      },
+      {
+        "senate": 5
+      },
+      {
+        "county": 5
+      },
+      {
+        "august": 5
+      }
+    ]
+  },
+  "politician": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "party": 17
+      },
+      {
+        "member": 16
+      },
+      {
+        "politician": 15
+      },
+      {
+        "served": 14
+      },
+      {
+        "state": 10
+      },
+      {
+        "thornton": 9
+      },
+      {
+        "national": 8
+      },
+      {
+        "december": 7
+      },
+      {
+        "latvia": 7
+      },
+      {
+        "congress": 7
+      },
+      {
+        "county": 6
+      },
+      {
+        "communist": 6
+      },
+      {
+        "deputy": 6
+      },
+      {
+        "minister": 6
+      },
+      {
+        "mexican": 6
+      },
+      {
+        "world": 6
+      },
+      {
+        "mcgoldrick": 6
+      },
+      {
+        "new": 5
+      },
+      {
+        "district": 5
+      },
+      {
+        "san": 5
+      }
+    ]
+  },
+  "composer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "composer": 19
+      },
+      {
+        "american": 14
+      },
+      {
+        "music": 13
+      },
+      {
+        "musical": 8
+      },
+      {
+        "de": 6
+      },
+      {
+        "band": 6
+      },
+      {
+        "film": 6
+      },
+      {
+        "series": 6
+      },
+      {
+        "gershwin": 6
+      },
+      {
+        "best": 5
+      },
+      {
+        "works": 5
+      },
+      {
+        "several": 5
+      },
+      {
+        "croatian": 5
+      },
+      {
+        "opera": 5
+      },
+      {
+        "studied": 5
+      },
+      {
+        "japanese": 5
+      },
+      {
+        "brother": 4
+      },
+      {
+        "member": 4
+      },
+      {
+        "new": 4
+      },
+      {
+        "york": 4
+      }
+    ]
+  },
+  "arranger": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "music": 28
+      },
+      {
+        "de": 15
+      },
+      {
+        "american": 14
+      },
+      {
+        "cou": 14
+      },
+      {
+        "composer": 13
+      },
+      {
+        "work": 10
+      },
+      {
+        "conductor": 10
+      },
+      {
+        "songwriter": 9
+      },
+      {
+        "many": 9
+      },
+      {
+        "musical": 8
+      },
+      {
+        "arranger": 8
+      },
+      {
+        "producer": 8
+      },
+      {
+        "jazz": 7
+      },
+      {
+        "musician": 7
+      },
+      {
+        "albums": 7
+      },
+      {
+        "orchestra": 7
+      },
+      {
+        "artists": 6
+      },
+      {
+        "series": 6
+      },
+      {
+        "well": 6
+      },
+      {
+        "songs": 6
+      }
+    ]
+  },
+  "musician": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "music": 14
+      },
+      {
+        "american": 12
+      },
+      {
+        "musician": 10
+      },
+      {
+        "released": 9
+      },
+      {
+        "band": 8
+      },
+      {
+        "show": 7
+      },
+      {
+        "first": 6
+      },
+      {
+        "composer": 5
+      },
+      {
+        "bass": 5
+      },
+      {
+        "dominique": 5
+      },
+      {
+        "singer": 5
+      },
+      {
+        "player": 5
+      },
+      {
+        "video": 5
+      },
+      {
+        "single": 5
+      },
+      {
+        "albums": 5
+      },
+      {
+        "album": 5
+      },
+      {
+        "musical": 5
+      },
+      {
+        "member": 5
+      },
+      {
+        "group": 5
+      },
+      {
+        "japanese": 5
+      }
+    ]
+  },
+  "director": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 35
+      },
+      {
+        "director": 30
+      },
+      {
+        "films": 15
+      },
+      {
+        "festival": 12
+      },
+      {
+        "world": 12
+      },
+      {
+        "international": 9
+      },
+      {
+        "television": 9
+      },
+      {
+        "long": 9
+      },
+      {
+        "award": 8
+      },
+      {
+        "tv": 8
+      },
+      {
+        "series": 8
+      },
+      {
+        "work": 8
+      },
+      {
+        "member": 8
+      },
+      {
+        "producer": 8
+      },
+      {
+        "games": 8
+      },
+      {
+        "american": 7
+      },
+      {
+        "theatre": 7
+      },
+      {
+        "abusulayman": 7
+      },
+      {
+        "october": 6
+      },
+      {
+        "new": 6
+      }
+    ]
+  },
+  "film director": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 66
+      },
+      {
+        "director": 31
+      },
+      {
+        "films": 27
+      },
+      {
+        "festival": 25
+      },
+      {
+        "international": 16
+      },
+      {
+        "series": 11
+      },
+      {
+        "american": 9
+      },
+      {
+        "award": 8
+      },
+      {
+        "directed": 8
+      },
+      {
+        "best": 8
+      },
+      {
+        "cannes": 8
+      },
+      {
+        "huston": 8
+      },
+      {
+        "world": 7
+      },
+      {
+        "television": 7
+      },
+      {
+        "new": 6
+      },
+      {
+        "screenwriter": 6
+      },
+      {
+        "radio": 6
+      },
+      {
+        "producer": 6
+      },
+      {
+        "actor": 6
+      },
+      {
+        "la": 6
+      }
+    ]
+  },
+  "actor": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "actor": 26
+      },
+      {
+        "film": 21
+      },
+      {
+        "best": 13
+      },
+      {
+        "films": 12
+      },
+      {
+        "drama": 12
+      },
+      {
+        "roles": 11
+      },
+      {
+        "role": 10
+      },
+      {
+        "series": 10
+      },
+      {
+        "award": 10
+      },
+      {
+        "including": 9
+      },
+      {
+        "television": 8
+      },
+      {
+        "may": 7
+      },
+      {
+        "american": 7
+      },
+      {
+        "first": 6
+      },
+      {
+        "acting": 6
+      },
+      {
+        "irons": 6
+      },
+      {
+        "february": 5
+      },
+      {
+        "appeared": 5
+      },
+      {
+        "received": 5
+      },
+      {
+        "country": 5
+      }
+    ]
+  },
+  "playwright": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "playwright": 22
+      },
+      {
+        "theatre": 15
+      },
+      {
+        "plays": 11
+      },
+      {
+        "works": 10
+      },
+      {
+        "american": 9
+      },
+      {
+        "film": 9
+      },
+      {
+        "first": 8
+      },
+      {
+        "award": 8
+      },
+      {
+        "kennedy": 8
+      },
+      {
+        "play": 7
+      },
+      {
+        "director": 7
+      },
+      {
+        "new": 7
+      },
+      {
+        "films": 6
+      },
+      {
+        "uzbek": 6
+      },
+      {
+        "poet": 5
+      },
+      {
+        "literature": 5
+      },
+      {
+        "music": 5
+      },
+      {
+        "writing": 5
+      },
+      {
+        "york": 5
+      },
+      {
+        "several": 5
+      }
+    ]
+  },
+  "poet": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "poet": 19
+      },
+      {
+        "poetry": 18
+      },
+      {
+        "literature": 15
+      },
+      {
+        "work": 12
+      },
+      {
+        "north": 11
+      },
+      {
+        "works": 8
+      },
+      {
+        "literary": 8
+      },
+      {
+        "award": 8
+      },
+      {
+        "jo": 8
+      },
+      {
+        "korean": 8
+      },
+      {
+        "writer": 7
+      },
+      {
+        "death": 6
+      },
+      {
+        "published": 6
+      },
+      {
+        "boberg": 6
+      },
+      {
+        "poems": 6
+      },
+      {
+        "several": 6
+      },
+      {
+        "review": 6
+      },
+      {
+        "canadian": 6
+      },
+      {
+        "november": 6
+      },
+      {
+        "september": 5
+      }
+    ]
+  },
+  "writer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 18
+      },
+      {
+        "american": 11
+      },
+      {
+        "country": 11
+      },
+      {
+        "writer": 9
+      },
+      {
+        "music": 9
+      },
+      {
+        "billboard": 9
+      },
+      {
+        "year": 9
+      },
+      {
+        "singles": 8
+      },
+      {
+        "single": 7
+      },
+      {
+        "films": 7
+      },
+      {
+        "hot": 7
+      },
+      {
+        "april": 6
+      },
+      {
+        "works": 6
+      },
+      {
+        "record": 6
+      },
+      {
+        "best": 6
+      },
+      {
+        "chart": 6
+      },
+      {
+        "boberg": 6
+      },
+      {
+        "including": 6
+      },
+      {
+        "michael": 6
+      },
+      {
+        "writing": 5
+      }
+    ]
+  },
+  "essayist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "essayist": 16
+      },
+      {
+        "writer": 14
+      },
+      {
+        "carrasquilla": 11
+      },
+      {
+        "literature": 10
+      },
+      {
+        "poetry": 9
+      },
+      {
+        "de": 8
+      },
+      {
+        "poet": 8
+      },
+      {
+        "works": 8
+      },
+      {
+        "published": 8
+      },
+      {
+        "american": 8
+      },
+      {
+        "novelist": 8
+      },
+      {
+        "time": 8
+      },
+      {
+        "critic": 6
+      },
+      {
+        "novel": 6
+      },
+      {
+        "work": 6
+      },
+      {
+        "author": 6
+      },
+      {
+        "many": 6
+      },
+      {
+        "university": 6
+      },
+      {
+        "short": 5
+      },
+      {
+        "among": 5
+      }
+    ]
+  },
+  "songwriter": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "music": 17
+      },
+      {
+        "album": 13
+      },
+      {
+        "songwriter": 11
+      },
+      {
+        "american": 11
+      },
+      {
+        "country": 11
+      },
+      {
+        "record": 10
+      },
+      {
+        "single": 9
+      },
+      {
+        "singles": 9
+      },
+      {
+        "band": 9
+      },
+      {
+        "albums": 9
+      },
+      {
+        "billboard": 9
+      },
+      {
+        "singer": 9
+      },
+      {
+        "texas": 9
+      },
+      {
+        "chart": 8
+      },
+      {
+        "songs": 8
+      },
+      {
+        "luc": 8
+      },
+      {
+        "hot": 7
+      },
+      {
+        "year": 7
+      },
+      {
+        "first": 7
+      },
+      {
+        "dumont": 7
+      }
+    ]
+  },
+  "travel writer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "writer": 18
+      },
+      {
+        "travel": 16
+      },
+      {
+        "author": 10
+      },
+      {
+        "books": 7
+      },
+      {
+        "mccarthy": 7
+      },
+      {
+        "british": 7
+      },
+      {
+        "naipaul": 7
+      },
+      {
+        "burgess": 7
+      },
+      {
+        "boberg": 6
+      },
+      {
+        "life": 6
+      },
+      {
+        "english": 6
+      },
+      {
+        "television": 6
+      },
+      {
+        "including": 6
+      },
+      {
+        "journalist": 6
+      },
+      {
+        "may": 5
+      },
+      {
+        "ireland": 5
+      },
+      {
+        "published": 5
+      },
+      {
+        "american": 5
+      },
+      {
+        "history": 5
+      },
+      {
+        "travels": 4
+      }
+    ]
+  },
+  "teacher": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "university": 9
+      },
+      {
+        "teacher": 8
+      },
+      {
+        "new": 7
+      },
+      {
+        "morgan": 6
+      },
+      {
+        "served": 6
+      },
+      {
+        "september": 5
+      },
+      {
+        "australian": 5
+      },
+      {
+        "institute": 5
+      },
+      {
+        "yoga": 5
+      },
+      {
+        "times": 5
+      },
+      {
+        "education": 5
+      },
+      {
+        "zealand": 4
+      },
+      {
+        "national": 4
+      },
+      {
+        "alquist": 4
+      },
+      {
+        "state": 4
+      },
+      {
+        "district": 4
+      },
+      {
+        "december": 4
+      },
+      {
+        "de": 4
+      },
+      {
+        "member": 4
+      },
+      {
+        "july": 4
+      }
+    ]
+  },
+  "lawyer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "member": 19
+      },
+      {
+        "law": 19
+      },
+      {
+        "lawyer": 11
+      },
+      {
+        "court": 10
+      },
+      {
+        "house": 10
+      },
+      {
+        "state": 10
+      },
+      {
+        "university": 9
+      },
+      {
+        "served": 9
+      },
+      {
+        "island": 9
+      },
+      {
+        "politician": 8
+      },
+      {
+        "school": 8
+      },
+      {
+        "rights": 8
+      },
+      {
+        "united": 8
+      },
+      {
+        "representatives": 8
+      },
+      {
+        "reform": 8
+      },
+      {
+        "israel": 8
+      },
+      {
+        "rhode": 8
+      },
+      {
+        "latvia": 7
+      },
+      {
+        "party": 7
+      },
+      {
+        "democratic": 7
+      }
+    ]
+  },
+  "screenwriter": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 44
+      },
+      {
+        "films": 19
+      },
+      {
+        "screenwriter": 14
+      },
+      {
+        "director": 12
+      },
+      {
+        "american": 11
+      },
+      {
+        "festival": 11
+      },
+      {
+        "actor": 9
+      },
+      {
+        "directed": 8
+      },
+      {
+        "huston": 8
+      },
+      {
+        "television": 7
+      },
+      {
+        "horacio": 7
+      },
+      {
+        "g\u00f3mez": 7
+      },
+      {
+        "el": 7
+      },
+      {
+        "would": 6
+      },
+      {
+        "first": 6
+      },
+      {
+        "writer": 6
+      },
+      {
+        "productions": 6
+      },
+      {
+        "filmmaker": 6
+      },
+      {
+        "bola\u00f1os": 6
+      },
+      {
+        "chespirito": 6
+      }
+    ]
+  },
+  "record producer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "record": 27
+      },
+      {
+        "producer": 22
+      },
+      {
+        "music": 22
+      },
+      {
+        "album": 20
+      },
+      {
+        "american": 17
+      },
+      {
+        "first": 16
+      },
+      {
+        "billboard": 14
+      },
+      {
+        "records": 13
+      },
+      {
+        "artists": 12
+      },
+      {
+        "including": 12
+      },
+      {
+        "year": 11
+      },
+      {
+        "released": 11
+      },
+      {
+        "nielsen": 11
+      },
+      {
+        "hot": 10
+      },
+      {
+        "awards": 10
+      },
+      {
+        "toomp": 10
+      },
+      {
+        "dj": 9
+      },
+      {
+        "grammy": 9
+      },
+      {
+        "worked": 8
+      },
+      {
+        "member": 8
+      }
+    ]
+  },
+  "producer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 30
+      },
+      {
+        "producer": 19
+      },
+      {
+        "films": 16
+      },
+      {
+        "director": 16
+      },
+      {
+        "best": 13
+      },
+      {
+        "american": 12
+      },
+      {
+        "television": 12
+      },
+      {
+        "work": 10
+      },
+      {
+        "award": 10
+      },
+      {
+        "long": 10
+      },
+      {
+        "toomp": 10
+      },
+      {
+        "new": 8
+      },
+      {
+        "first": 8
+      },
+      {
+        "radio": 8
+      },
+      {
+        "series": 8
+      },
+      {
+        "games": 8
+      },
+      {
+        "record": 7
+      },
+      {
+        "tv": 7
+      },
+      {
+        "festival": 7
+      },
+      {
+        "producing": 6
+      }
+    ]
+  },
+  "film producer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 44
+      },
+      {
+        "producer": 20
+      },
+      {
+        "director": 17
+      },
+      {
+        "films": 15
+      },
+      {
+        "production": 10
+      },
+      {
+        "best": 10
+      },
+      {
+        "american": 10
+      },
+      {
+        "series": 9
+      },
+      {
+        "festival": 8
+      },
+      {
+        "game": 7
+      },
+      {
+        "la": 7
+      },
+      {
+        "video": 6
+      },
+      {
+        "radio": 6
+      },
+      {
+        "de": 6
+      },
+      {
+        "burns": 6
+      },
+      {
+        "company": 5
+      },
+      {
+        "award": 5
+      },
+      {
+        "italian": 5
+      },
+      {
+        "television": 5
+      },
+      {
+        "advertising": 5
+      }
+    ]
+  },
+  "architect": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "architect": 21
+      },
+      {
+        "weese": 9
+      },
+      {
+        "american": 8
+      },
+      {
+        "neutra": 8
+      },
+      {
+        "university": 6
+      },
+      {
+        "shulman": 6
+      },
+      {
+        "chicago": 6
+      },
+      {
+        "november": 5
+      },
+      {
+        "london": 5
+      },
+      {
+        "architects": 5
+      },
+      {
+        "october": 5
+      },
+      {
+        "architectural": 5
+      },
+      {
+        "new": 5
+      },
+      {
+        "buildings": 5
+      },
+      {
+        "first": 5
+      },
+      {
+        "xbox": 5
+      },
+      {
+        "live": 5
+      },
+      {
+        "august": 5
+      },
+      {
+        "city": 5
+      },
+      {
+        "institute": 4
+      }
+    ]
+  },
+  "model": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "model": 27
+      },
+      {
+        "actress": 10
+      },
+      {
+        "television": 7
+      },
+      {
+        "fashion": 7
+      },
+      {
+        "actor": 6
+      },
+      {
+        "role": 6
+      },
+      {
+        "debut": 5
+      },
+      {
+        "movie": 5
+      },
+      {
+        "june": 5
+      },
+      {
+        "modeling": 5
+      },
+      {
+        "mumbai": 5
+      },
+      {
+        "barbara": 5
+      },
+      {
+        "industry": 5
+      },
+      {
+        "indian": 4
+      },
+      {
+        "india": 4
+      },
+      {
+        "show": 4
+      },
+      {
+        "made": 4
+      },
+      {
+        "american": 4
+      },
+      {
+        "series": 4
+      },
+      {
+        "lead": 4
+      }
+    ]
+  },
+  "comedian": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "comedian": 19
+      },
+      {
+        "television": 17
+      },
+      {
+        "show": 16
+      },
+      {
+        "actor": 16
+      },
+      {
+        "comedy": 12
+      },
+      {
+        "american": 11
+      },
+      {
+        "film": 11
+      },
+      {
+        "best": 8
+      },
+      {
+        "series": 8
+      },
+      {
+        "shows": 8
+      },
+      {
+        "writer": 8
+      },
+      {
+        "appeared": 7
+      },
+      {
+        "radio": 7
+      },
+      {
+        "horacio": 7
+      },
+      {
+        "g\u00f3mez": 7
+      },
+      {
+        "el": 7
+      },
+      {
+        "mccarthy": 7
+      },
+      {
+        "wilton": 7
+      },
+      {
+        "actress": 6
+      },
+      {
+        "well": 6
+      }
+    ]
+  },
+  "author": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "book": 16
+      },
+      {
+        "game": 14
+      },
+      {
+        "author": 13
+      },
+      {
+        "short": 13
+      },
+      {
+        "best": 11
+      },
+      {
+        "ga": 11
+      },
+      {
+        "series": 10
+      },
+      {
+        "lamothe": 10
+      },
+      {
+        "american": 9
+      },
+      {
+        "film": 9
+      },
+      {
+        "barton": 9
+      },
+      {
+        "work": 9
+      },
+      {
+        "history": 9
+      },
+      {
+        "new": 9
+      },
+      {
+        "radio": 9
+      },
+      {
+        "years": 9
+      },
+      {
+        "stories": 9
+      },
+      {
+        "development": 9
+      },
+      {
+        "games": 9
+      },
+      {
+        "books": 8
+      }
+    ]
+  },
+  "novelist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "novel": 15
+      },
+      {
+        "published": 11
+      },
+      {
+        "carrasquilla": 11
+      },
+      {
+        "fiction": 10
+      },
+      {
+        "writer": 10
+      },
+      {
+        "author": 8
+      },
+      {
+        "short": 8
+      },
+      {
+        "time": 8
+      },
+      {
+        "novelist": 7
+      },
+      {
+        "american": 7
+      },
+      {
+        "stories": 7
+      },
+      {
+        "literary": 7
+      },
+      {
+        "novels": 7
+      },
+      {
+        "literature": 7
+      },
+      {
+        "burroughs": 7
+      },
+      {
+        "best": 6
+      },
+      {
+        "work": 6
+      },
+      {
+        "prize": 6
+      },
+      {
+        "award": 6
+      },
+      {
+        "writers": 6
+      }
+    ]
+  },
+  "professor": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "university": 21
+      },
+      {
+        "professor": 18
+      },
+      {
+        "work": 13
+      },
+      {
+        "short": 11
+      },
+      {
+        "ga": 11
+      },
+      {
+        "stories": 9
+      },
+      {
+        "literature": 9
+      },
+      {
+        "law": 8
+      },
+      {
+        "research": 8
+      },
+      {
+        "served": 7
+      },
+      {
+        "new": 7
+      },
+      {
+        "president": 7
+      },
+      {
+        "history": 6
+      },
+      {
+        "director": 6
+      },
+      {
+        "health": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "distinguished": 6
+      },
+      {
+        "persian": 6
+      },
+      {
+        "marathi": 6
+      },
+      {
+        "goddard": 6
+      }
+    ]
+  },
+  "journalist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "news": 13
+      },
+      {
+        "world": 12
+      },
+      {
+        "journalist": 10
+      },
+      {
+        "television": 8
+      },
+      {
+        "january": 7
+      },
+      {
+        "later": 7
+      },
+      {
+        "anchor": 7
+      },
+      {
+        "mesley": 7
+      },
+      {
+        "american": 6
+      },
+      {
+        "history": 6
+      },
+      {
+        "national": 6
+      },
+      {
+        "fashion": 6
+      },
+      {
+        "bbc": 5
+      },
+      {
+        "presenter": 5
+      },
+      {
+        "march": 5
+      },
+      {
+        "well": 5
+      },
+      {
+        "correspondent": 5
+      },
+      {
+        "former": 5
+      },
+      {
+        "cbc": 5
+      },
+      {
+        "women": 5
+      }
+    ]
+  },
+  "translator": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "translator": 18
+      },
+      {
+        "published": 13
+      },
+      {
+        "literary": 11
+      },
+      {
+        "university": 11
+      },
+      {
+        "english": 10
+      },
+      {
+        "poetry": 10
+      },
+      {
+        "first": 8
+      },
+      {
+        "poet": 8
+      },
+      {
+        "works": 7
+      },
+      {
+        "albanian": 7
+      },
+      {
+        "work": 7
+      },
+      {
+        "russian": 7
+      },
+      {
+        "literature": 7
+      },
+      {
+        "several": 6
+      },
+      {
+        "meksi": 6
+      },
+      {
+        "writer": 6
+      },
+      {
+        "translation": 6
+      },
+      {
+        "died": 6
+      },
+      {
+        "time": 6
+      },
+      {
+        "bajamonti": 6
+      }
+    ]
+  },
+  "coach": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "coach": 28
+      },
+      {
+        "gymnastics": 9
+      },
+      {
+        "world": 9
+      },
+      {
+        "australian": 8
+      },
+      {
+        "team": 8
+      },
+      {
+        "hockey": 7
+      },
+      {
+        "award": 7
+      },
+      {
+        "rugby": 6
+      },
+      {
+        "assistant": 5
+      },
+      {
+        "head": 5
+      },
+      {
+        "university": 5
+      },
+      {
+        "liddick": 5
+      },
+      {
+        "national": 5
+      },
+      {
+        "championships": 5
+      },
+      {
+        "five": 5
+      },
+      {
+        "football": 5
+      },
+      {
+        "louisiana": 5
+      },
+      {
+        "television": 4
+      },
+      {
+        "model": 4
+      },
+      {
+        "cancer": 4
+      }
+    ]
+  },
+  "host": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "show": 25
+      },
+      {
+        "host": 19
+      },
+      {
+        "tv": 18
+      },
+      {
+        "television": 16
+      },
+      {
+        "radio": 16
+      },
+      {
+        "world": 13
+      },
+      {
+        "taguchi": 11
+      },
+      {
+        "son": 9
+      },
+      {
+        "de": 8
+      },
+      {
+        "program": 8
+      },
+      {
+        "best": 8
+      },
+      {
+        "singer": 8
+      },
+      {
+        "la": 8
+      },
+      {
+        "puerto": 8
+      },
+      {
+        "personality": 7
+      },
+      {
+        "music": 7
+      },
+      {
+        "media": 7
+      },
+      {
+        "abusulayman": 7
+      },
+      {
+        "august": 7
+      },
+      {
+        "rock": 7
+      }
+    ]
+  },
+  "organist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "music": 27
+      },
+      {
+        "organist": 24
+      },
+      {
+        "composer": 14
+      },
+      {
+        "american": 11
+      },
+      {
+        "cathedral": 11
+      },
+      {
+        "records": 11
+      },
+      {
+        "church": 9
+      },
+      {
+        "organ": 8
+      },
+      {
+        "album": 8
+      },
+      {
+        "powell": 7
+      },
+      {
+        "schuyt": 7
+      },
+      {
+        "february": 6
+      },
+      {
+        "university": 6
+      },
+      {
+        "washington": 6
+      },
+      {
+        "national": 6
+      },
+      {
+        "director": 6
+      },
+      {
+        "july": 6
+      },
+      {
+        "songs": 6
+      },
+      {
+        "college": 5
+      },
+      {
+        "organists": 5
+      }
+    ]
+  },
+  "rapper": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "album": 23
+      },
+      {
+        "rapper": 17
+      },
+      {
+        "released": 16
+      },
+      {
+        "music": 15
+      },
+      {
+        "artist": 14
+      },
+      {
+        "american": 13
+      },
+      {
+        "stage": 13
+      },
+      {
+        "record": 12
+      },
+      {
+        "records": 11
+      },
+      {
+        "producer": 11
+      },
+      {
+        "single": 10
+      },
+      {
+        "label": 10
+      },
+      {
+        "hop": 9
+      },
+      {
+        "better": 9
+      },
+      {
+        "first": 9
+      },
+      {
+        "hip": 8
+      },
+      {
+        "artists": 8
+      },
+      {
+        "new": 8
+      },
+      {
+        "debut": 8
+      },
+      {
+        "best": 7
+      }
+    ]
+  },
+  "radio host": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "radio": 35
+      },
+      {
+        "host": 19
+      },
+      {
+        "show": 14
+      },
+      {
+        "television": 13
+      },
+      {
+        "pang": 11
+      },
+      {
+        "jacqueline": 11
+      },
+      {
+        "american": 10
+      },
+      {
+        "program": 7
+      },
+      {
+        "rock": 7
+      },
+      {
+        "music": 7
+      },
+      {
+        "burns": 7
+      },
+      {
+        "network": 6
+      },
+      {
+        "writer": 6
+      },
+      {
+        "since": 6
+      },
+      {
+        "channel": 6
+      },
+      {
+        "hong": 6
+      },
+      {
+        "kong": 6
+      },
+      {
+        "rthk": 6
+      },
+      {
+        "http": 6
+      },
+      {
+        "book": 6
+      }
+    ]
+  },
+  "entrepreneur": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "gal\u00e1n": 15
+      },
+      {
+        "entrepreneur": 12
+      },
+      {
+        "fox": 11
+      },
+      {
+        "rifle": 11
+      },
+      {
+        "entertainment": 10
+      },
+      {
+        "games": 10
+      },
+      {
+        "dreyse": 10
+      },
+      {
+        "telemundo": 9
+      },
+      {
+        "long": 8
+      },
+      {
+        "time": 8
+      },
+      {
+        "produced": 8
+      },
+      {
+        "company": 8
+      },
+      {
+        "bolt": 8
+      },
+      {
+        "cruz": 8
+      },
+      {
+        "founded": 7
+      },
+      {
+        "first": 7
+      },
+      {
+        "well": 7
+      },
+      {
+        "released": 7
+      },
+      {
+        "artist": 7
+      },
+      {
+        "new": 7
+      }
+    ]
+  },
+  "athlete": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "athlete": 12
+      },
+      {
+        "world": 12
+      },
+      {
+        "school": 10
+      },
+      {
+        "first": 9
+      },
+      {
+        "coe": 9
+      },
+      {
+        "record": 8
+      },
+      {
+        "former": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "ironman": 6
+      },
+      {
+        "olympic": 6
+      },
+      {
+        "olympics": 6
+      },
+      {
+        "university": 6
+      },
+      {
+        "high": 6
+      },
+      {
+        "zappia": 6
+      },
+      {
+        "time": 5
+      },
+      {
+        "athletics": 5
+      },
+      {
+        "four": 5
+      },
+      {
+        "member": 5
+      },
+      {
+        "party": 5
+      },
+      {
+        "fame": 5
+      }
+    ]
+  },
+  "philanthropist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "philanthropist": 15
+      },
+      {
+        "american": 12
+      },
+      {
+        "first": 10
+      },
+      {
+        "new": 9
+      },
+      {
+        "fisher": 8
+      },
+      {
+        "world": 6
+      },
+      {
+        "women": 6
+      },
+      {
+        "president": 6
+      },
+      {
+        "member": 6
+      },
+      {
+        "album": 6
+      },
+      {
+        "released": 6
+      },
+      {
+        "haddad": 6
+      },
+      {
+        "zealand": 5
+      },
+      {
+        "successful": 5
+      },
+      {
+        "served": 5
+      },
+      {
+        "trust": 5
+      },
+      {
+        "years": 5
+      },
+      {
+        "community": 5
+      },
+      {
+        "national": 5
+      },
+      {
+        "pakistan": 5
+      }
+    ]
+  },
+  "businessman": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "businessman": 10
+      },
+      {
+        "parker": 10
+      },
+      {
+        "american": 8
+      },
+      {
+        "served": 7
+      },
+      {
+        "canadian": 7
+      },
+      {
+        "house": 7
+      },
+      {
+        "politician": 6
+      },
+      {
+        "louisiana": 6
+      },
+      {
+        "company": 5
+      },
+      {
+        "john": 5
+      },
+      {
+        "february": 5
+      },
+      {
+        "september": 5
+      },
+      {
+        "parish": 5
+      },
+      {
+        "father": 5
+      },
+      {
+        "brompton": 4
+      },
+      {
+        "business": 4
+      },
+      {
+        "member": 4
+      },
+      {
+        "governor": 4
+      },
+      {
+        "elected": 4
+      },
+      {
+        "commons": 4
+      }
+    ]
+  },
+  "economist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "economist": 16
+      },
+      {
+        "minister": 9
+      },
+      {
+        "economics": 8
+      },
+      {
+        "policy": 8
+      },
+      {
+        "university": 8
+      },
+      {
+        "books": 8
+      },
+      {
+        "federal": 7
+      },
+      {
+        "party": 7
+      },
+      {
+        "public": 6
+      },
+      {
+        "author": 6
+      },
+      {
+        "finance": 6
+      },
+      {
+        "national": 6
+      },
+      {
+        "energy": 6
+      },
+      {
+        "institute": 5
+      },
+      {
+        "economic": 5
+      },
+      {
+        "american": 5
+      },
+      {
+        "progressive": 5
+      },
+      {
+        "work": 5
+      },
+      {
+        "lanovyi": 5
+      },
+      {
+        "government": 5
+      }
+    ]
+  },
+  "singer fitness instructor": {
+    "count": 0,
+    "frequent_words": []
+  },
+  "revolutionary": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "revolutionary": 19
+      },
+      {
+        "india": 11
+      },
+      {
+        "leader": 10
+      },
+      {
+        "war": 8
+      },
+      {
+        "naveen": 8
+      },
+      {
+        "communist": 6
+      },
+      {
+        "party": 6
+      },
+      {
+        "sarkar": 6
+      },
+      {
+        "greek": 6
+      },
+      {
+        "independence": 6
+      },
+      {
+        "february": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "political": 6
+      },
+      {
+        "indian": 5
+      },
+      {
+        "took": 5
+      },
+      {
+        "part": 5
+      },
+      {
+        "may": 5
+      },
+      {
+        "october": 5
+      },
+      {
+        "social": 5
+      },
+      {
+        "revolution": 5
+      }
+    ]
+  },
+  "environmentalist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "environmentalist": 14
+      },
+      {
+        "green": 12
+      },
+      {
+        "building": 11
+      },
+      {
+        "work": 10
+      },
+      {
+        "environmental": 10
+      },
+      {
+        "development": 10
+      },
+      {
+        "society": 8
+      },
+      {
+        "environment": 8
+      },
+      {
+        "de": 7
+      },
+      {
+        "baeremaeker": 7
+      },
+      {
+        "shulman": 6
+      },
+      {
+        "best": 6
+      },
+      {
+        "watson": 6
+      },
+      {
+        "international": 6
+      },
+      {
+        "council": 6
+      },
+      {
+        "director": 6
+      },
+      {
+        "science": 6
+      },
+      {
+        "american": 5
+      },
+      {
+        "buildings": 5
+      },
+      {
+        "chairman": 5
+      }
+    ]
+  },
+  "stage": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 20
+      },
+      {
+        "stage": 15
+      },
+      {
+        "actress": 14
+      },
+      {
+        "films": 12
+      },
+      {
+        "actor": 12
+      },
+      {
+        "american": 11
+      },
+      {
+        "theatre": 11
+      },
+      {
+        "role": 10
+      },
+      {
+        "booth": 10
+      },
+      {
+        "best": 8
+      },
+      {
+        "first": 8
+      },
+      {
+        "television": 8
+      },
+      {
+        "appeared": 7
+      },
+      {
+        "series": 7
+      },
+      {
+        "new": 7
+      },
+      {
+        "married": 7
+      },
+      {
+        "may": 6
+      },
+      {
+        "april": 6
+      },
+      {
+        "tv": 6
+      },
+      {
+        "played": 6
+      }
+    ]
+  },
+  "tv personality": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "television": 17
+      },
+      {
+        "personality": 12
+      },
+      {
+        "show": 12
+      },
+      {
+        "new": 10
+      },
+      {
+        "holmes": 10
+      },
+      {
+        "tv": 9
+      },
+      {
+        "music": 8
+      },
+      {
+        "series": 7
+      },
+      {
+        "american": 7
+      },
+      {
+        "host": 6
+      },
+      {
+        "september": 6
+      },
+      {
+        "zealand": 6
+      },
+      {
+        "von": 5
+      },
+      {
+        "sydow": 5
+      },
+      {
+        "sweden": 5
+      },
+      {
+        "swedish": 5
+      },
+      {
+        "radio": 5
+      },
+      {
+        "national": 5
+      },
+      {
+        "former": 5
+      },
+      {
+        "cnn": 5
+      }
+    ]
+  },
+  "dancer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "dancer": 20
+      },
+      {
+        "dance": 20
+      },
+      {
+        "film": 15
+      },
+      {
+        "ballet": 14
+      },
+      {
+        "music": 13
+      },
+      {
+        "first": 11
+      },
+      {
+        "actor": 10
+      },
+      {
+        "career": 10
+      },
+      {
+        "artist": 10
+      },
+      {
+        "television": 9
+      },
+      {
+        "best": 9
+      },
+      {
+        "time": 9
+      },
+      {
+        "brightman": 9
+      },
+      {
+        "role": 8
+      },
+      {
+        "album": 8
+      },
+      {
+        "classical": 8
+      },
+      {
+        "indian": 8
+      },
+      {
+        "american": 7
+      },
+      {
+        "series": 7
+      },
+      {
+        "million": 7
+      }
+    ]
+  },
+  "educator": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "university": 19
+      },
+      {
+        "american": 18
+      },
+      {
+        "educator": 11
+      },
+      {
+        "japan": 10
+      },
+      {
+        "school": 10
+      },
+      {
+        "medicine": 10
+      },
+      {
+        "medical": 9
+      },
+      {
+        "barbara": 8
+      },
+      {
+        "psychiatry": 8
+      },
+      {
+        "state": 7
+      },
+      {
+        "member": 7
+      },
+      {
+        "received": 6
+      },
+      {
+        "hori": 6
+      },
+      {
+        "hardy": 6
+      },
+      {
+        "department": 6
+      },
+      {
+        "glass": 6
+      },
+      {
+        "texas": 5
+      },
+      {
+        "history": 5
+      },
+      {
+        "globis": 5
+      },
+      {
+        "new": 5
+      }
+    ]
+  },
+  "guitarist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "guitarist": 26
+      },
+      {
+        "band": 25
+      },
+      {
+        "album": 15
+      },
+      {
+        "american": 13
+      },
+      {
+        "music": 13
+      },
+      {
+        "singer": 10
+      },
+      {
+        "released": 10
+      },
+      {
+        "jazz": 9
+      },
+      {
+        "metal": 9
+      },
+      {
+        "sykora": 8
+      },
+      {
+        "lopez": 8
+      },
+      {
+        "song": 8
+      },
+      {
+        "member": 7
+      },
+      {
+        "rock": 7
+      },
+      {
+        "radio": 7
+      },
+      {
+        "guitar": 6
+      },
+      {
+        "artist": 6
+      },
+      {
+        "lead": 6
+      },
+      {
+        "debut": 6
+      },
+      {
+        "chamberland": 5
+      }
+    ]
+  },
+  "entertainer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "entertainer": 12
+      },
+      {
+        "american": 10
+      },
+      {
+        "career": 7
+      },
+      {
+        "television": 6
+      },
+      {
+        "shows": 6
+      },
+      {
+        "act": 6
+      },
+      {
+        "music": 6
+      },
+      {
+        "show": 6
+      },
+      {
+        "singer": 6
+      },
+      {
+        "died": 6
+      },
+      {
+        "hoste": 5
+      },
+      {
+        "performer": 5
+      },
+      {
+        "radio": 5
+      },
+      {
+        "john": 5
+      },
+      {
+        "best": 5
+      },
+      {
+        "began": 5
+      },
+      {
+        "gandanghari": 5
+      },
+      {
+        "cohan": 5
+      },
+      {
+        "appeared": 5
+      },
+      {
+        "lotito": 5
+      }
+    ]
+  },
+  "voice actor": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "voice": 23
+      },
+      {
+        "actor": 22
+      },
+      {
+        "series": 15
+      },
+      {
+        "roles": 14
+      },
+      {
+        "film": 12
+      },
+      {
+        "television": 11
+      },
+      {
+        "best": 10
+      },
+      {
+        "american": 9
+      },
+      {
+        "french": 8
+      },
+      {
+        "writer": 7
+      },
+      {
+        "role": 7
+      },
+      {
+        "stage": 7
+      },
+      {
+        "well": 6
+      },
+      {
+        "john": 6
+      },
+      {
+        "wallace": 6
+      },
+      {
+        "tv": 5
+      },
+      {
+        "films": 5
+      },
+      {
+        "awards": 5
+      },
+      {
+        "dubbed": 5
+      },
+      {
+        "provided": 4
+      }
+    ]
+  },
+  "columnist": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "wiegel": 18
+      },
+      {
+        "columnist": 17
+      },
+      {
+        "news": 15
+      },
+      {
+        "television": 13
+      },
+      {
+        "bach": 12
+      },
+      {
+        "american": 12
+      },
+      {
+        "books": 12
+      },
+      {
+        "finish": 11
+      },
+      {
+        "rich": 11
+      },
+      {
+        "stossel": 11
+      },
+      {
+        "new": 10
+      },
+      {
+        "award": 10
+      },
+      {
+        "times": 9
+      },
+      {
+        "house": 9
+      },
+      {
+        "abc": 9
+      },
+      {
+        "author": 8
+      },
+      {
+        "book": 8
+      },
+      {
+        "millionaire": 8
+      },
+      {
+        "york": 8
+      },
+      {
+        "appeared": 8
+      }
+    ]
+  },
+  "narrator": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "actor": 13
+      },
+      {
+        "narrator": 13
+      },
+      {
+        "voice": 12
+      },
+      {
+        "american": 12
+      },
+      {
+        "fleming": 12
+      },
+      {
+        "film": 11
+      },
+      {
+        "series": 10
+      },
+      {
+        "television": 10
+      },
+      {
+        "partridge": 9
+      },
+      {
+        "time": 8
+      },
+      {
+        "stage": 7
+      },
+      {
+        "roles": 7
+      },
+      {
+        "including": 7
+      },
+      {
+        "campbell": 7
+      },
+      {
+        "richardson": 7
+      },
+      {
+        "smith": 6
+      },
+      {
+        "best": 6
+      },
+      {
+        "production": 6
+      },
+      {
+        "years": 6
+      },
+      {
+        "herzog": 6
+      }
+    ]
+  },
+  "television host": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "television": 33
+      },
+      {
+        "host": 29
+      },
+      {
+        "show": 20
+      },
+      {
+        "series": 10
+      },
+      {
+        "sports": 10
+      },
+      {
+        "radio": 9
+      },
+      {
+        "actress": 7
+      },
+      {
+        "yakubovich": 7
+      },
+      {
+        "writer": 6
+      },
+      {
+        "personality": 6
+      },
+      {
+        "actor": 5
+      },
+      {
+        "best": 5
+      },
+      {
+        "canada": 5
+      },
+      {
+        "home": 5
+      },
+      {
+        "may": 5
+      },
+      {
+        "entertainment": 5
+      },
+      {
+        "american": 5
+      },
+      {
+        "russian": 5
+      },
+      {
+        "australian": 4
+      },
+      {
+        "reality": 4
+      }
+    ]
+  },
+  "media executive": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "executive": 26
+      },
+      {
+        "media": 25
+      },
+      {
+        "president": 12
+      },
+      {
+        "new": 11
+      },
+      {
+        "american": 10
+      },
+      {
+        "news": 9
+      },
+      {
+        "film": 8
+      },
+      {
+        "served": 7
+      },
+      {
+        "york": 7
+      },
+      {
+        "company": 7
+      },
+      {
+        "music": 7
+      },
+      {
+        "national": 7
+      },
+      {
+        "chief": 6
+      },
+      {
+        "officer": 6
+      },
+      {
+        "entertainment": 6
+      },
+      {
+        "social": 6
+      },
+      {
+        "television": 6
+      },
+      {
+        "ceo": 6
+      },
+      {
+        "geographic": 6
+      },
+      {
+        "head": 5
+      }
+    ]
+  },
+  "sportsman": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "gold": 15
+      },
+      {
+        "first": 14
+      },
+      {
+        "sportsman": 12
+      },
+      {
+        "indian": 12
+      },
+      {
+        "medal": 11
+      },
+      {
+        "world": 10
+      },
+      {
+        "games": 10
+      },
+      {
+        "olympic": 9
+      },
+      {
+        "red": 8
+      },
+      {
+        "bbc": 8
+      },
+      {
+        "fisher": 7
+      },
+      {
+        "poems": 7
+      },
+      {
+        "puerto": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "january": 6
+      },
+      {
+        "india": 6
+      },
+      {
+        "shooter": 6
+      },
+      {
+        "pistol": 6
+      },
+      {
+        "volleyball": 6
+      },
+      {
+        "officer": 5
+      }
+    ]
+  },
+  "broadcasting": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "broadcasting": 21
+      },
+      {
+        "radio": 20
+      },
+      {
+        "television": 10
+      },
+      {
+        "music": 7
+      },
+      {
+        "media": 7
+      },
+      {
+        "chairman": 7
+      },
+      {
+        "president": 7
+      },
+      {
+        "work": 7
+      },
+      {
+        "ed": 7
+      },
+      {
+        "first": 6
+      },
+      {
+        "since": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "world": 6
+      },
+      {
+        "show": 6
+      },
+      {
+        "former": 5
+      },
+      {
+        "miss": 5
+      },
+      {
+        "university": 5
+      },
+      {
+        "california": 5
+      },
+      {
+        "ceo": 5
+      },
+      {
+        "louisiana": 5
+      }
+    ]
+  },
+  "film actress": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "film": 42
+      },
+      {
+        "actress": 26
+      },
+      {
+        "films": 23
+      },
+      {
+        "indian": 14
+      },
+      {
+        "schell": 9
+      },
+      {
+        "appeared": 7
+      },
+      {
+        "female": 7
+      },
+      {
+        "television": 7
+      },
+      {
+        "made": 6
+      },
+      {
+        "debut": 6
+      },
+      {
+        "roles": 6
+      },
+      {
+        "work": 6
+      },
+      {
+        "kannada": 6
+      },
+      {
+        "waters": 6
+      },
+      {
+        "hindi": 5
+      },
+      {
+        "acting": 5
+      },
+      {
+        "award": 5
+      },
+      {
+        "best": 5
+      },
+      {
+        "played": 5
+      },
+      {
+        "tamil": 5
+      }
+    ]
+  },
+  "military officer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "general": 20
+      },
+      {
+        "army": 19
+      },
+      {
+        "military": 18
+      },
+      {
+        "served": 16
+      },
+      {
+        "officer": 13
+      },
+      {
+        "florida": 12
+      },
+      {
+        "member": 11
+      },
+      {
+        "uganda": 10
+      },
+      {
+        "force": 10
+      },
+      {
+        "united": 10
+      },
+      {
+        "ford": 10
+      },
+      {
+        "chief": 9
+      },
+      {
+        "updf": 9
+      },
+      {
+        "house": 9
+      },
+      {
+        "lyman": 9
+      },
+      {
+        "bangladesh": 9
+      },
+      {
+        "war": 8
+      },
+      {
+        "appointed": 8
+      },
+      {
+        "people": 8
+      },
+      {
+        "forces": 8
+      }
+    ]
+  },
+  "pastor": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "pastor": 24
+      },
+      {
+        "church": 20
+      },
+      {
+        "christian": 13
+      },
+      {
+        "nicks": 11
+      },
+      {
+        "ron": 10
+      },
+      {
+        "senior": 9
+      },
+      {
+        "university": 9
+      },
+      {
+        "innes": 9
+      },
+      {
+        "zwingli": 9
+      },
+      {
+        "baptist": 8
+      },
+      {
+        "life": 8
+      },
+      {
+        "bible": 7
+      },
+      {
+        "college": 7
+      },
+      {
+        "two": 6
+      },
+      {
+        "author": 6
+      },
+      {
+        "arkansas": 6
+      },
+      {
+        "house": 6
+      },
+      {
+        "county": 6
+      },
+      {
+        "american": 6
+      },
+      {
+        "first": 6
+      }
+    ]
+  },
+  "stuntman": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "actor": 22
+      },
+      {
+        "stuntman": 22
+      },
+      {
+        "film": 21
+      },
+      {
+        "films": 18
+      },
+      {
+        "television": 16
+      },
+      {
+        "american": 13
+      },
+      {
+        "stunt": 10
+      },
+      {
+        "series": 10
+      },
+      {
+        "roberson": 10
+      },
+      {
+        "role": 9
+      },
+      {
+        "ho": 9
+      },
+      {
+        "martial": 9
+      },
+      {
+        "world": 8
+      },
+      {
+        "double": 8
+      },
+      {
+        "ojala": 8
+      },
+      {
+        "draw": 8
+      },
+      {
+        "best": 6
+      },
+      {
+        "roles": 6
+      },
+      {
+        "several": 6
+      },
+      {
+        "career": 6
+      }
+    ]
+  },
+  "radio broadcaster": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "radio": 53
+      },
+      {
+        "show": 16
+      },
+      {
+        "broadcaster": 13
+      },
+      {
+        "years": 12
+      },
+      {
+        "music": 12
+      },
+      {
+        "program": 11
+      },
+      {
+        "new": 11
+      },
+      {
+        "cross": 10
+      },
+      {
+        "journalist": 9
+      },
+      {
+        "station": 9
+      },
+      {
+        "media": 9
+      },
+      {
+        "first": 9
+      },
+      {
+        "history": 9
+      },
+      {
+        "work": 8
+      },
+      {
+        "television": 8
+      },
+      {
+        "former": 8
+      },
+      {
+        "film": 8
+      },
+      {
+        "host": 7
+      },
+      {
+        "september": 7
+      },
+      {
+        "july": 7
+      }
+    ]
+  },
+  "deejay": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "jamaica": 19
+      },
+      {
+        "album": 17
+      },
+      {
+        "dancehall": 15
+      },
+      {
+        "reggae": 14
+      },
+      {
+        "music": 12
+      },
+      {
+        "new": 12
+      },
+      {
+        "deejay": 11
+      },
+      {
+        "released": 11
+      },
+      {
+        "better": 8
+      },
+      {
+        "jamaican": 8
+      },
+      {
+        "artist": 7
+      },
+      {
+        "de": 7
+      },
+      {
+        "kingston": 7
+      },
+      {
+        "single": 7
+      },
+      {
+        "stage": 7
+      },
+      {
+        "singer": 7
+      },
+      {
+        "records": 7
+      },
+      {
+        "mancuso": 7
+      },
+      {
+        "thompson": 7
+      },
+      {
+        "jazz": 7
+      }
+    ]
+  },
+  "geographer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "carpenter": 20
+      },
+      {
+        "geographer": 16
+      },
+      {
+        "geography": 14
+      },
+      {
+        "world": 13
+      },
+      {
+        "hulbert": 12
+      },
+      {
+        "first": 11
+      },
+      {
+        "de": 10
+      },
+      {
+        "geographical": 9
+      },
+      {
+        "travels": 9
+      },
+      {
+        "college": 8
+      },
+      {
+        "russian": 7
+      },
+      {
+        "professor": 7
+      },
+      {
+        "work": 7
+      },
+      {
+        "writer": 6
+      },
+      {
+        "history": 6
+      },
+      {
+        "september": 6
+      },
+      {
+        "university": 6
+      },
+      {
+        "fontana": 6
+      },
+      {
+        "reader": 6
+      },
+      {
+        "june": 5
+      }
+    ]
+  },
+  "mountaineer": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "first": 26
+      },
+      {
+        "everest": 23
+      },
+      {
+        "summit": 22
+      },
+      {
+        "sherpa": 22
+      },
+      {
+        "mountaineer": 16
+      },
+      {
+        "climb": 14
+      },
+      {
+        "mountain": 11
+      },
+      {
+        "mount": 11
+      },
+      {
+        "expedition": 10
+      },
+      {
+        "pasang": 10
+      },
+      {
+        "seven": 9
+      },
+      {
+        "died": 9
+      },
+      {
+        "body": 9
+      },
+      {
+        "barrett": 9
+      },
+      {
+        "highest": 8
+      },
+      {
+        "peak": 8
+      },
+      {
+        "climbed": 8
+      },
+      {
+        "kammerlander": 8
+      },
+      {
+        "lhamu": 8
+      },
+      {
+        "summits": 7
+      }
+    ]
+  },
+  "sportsperson": {
+    "count": 7,
+    "frequent_words": [
+      {
+        "first": 6
+      },
+      {
+        "northwest": 6
+      },
+      {
+        "territories": 6
+      },
+      {
+        "india": 5
+      },
+      {
+        "indian": 4
+      },
+      {
+        "member": 4
+      },
+      {
+        "term": 4
+      },
+      {
+        "woman": 3
+      },
+      {
+        "mccallum": 3
+      },
+      {
+        "served": 3
+      },
+      {
+        "legislature": 3
+      },
+      {
+        "general": 3
+      },
+      {
+        "election": 3
+      },
+      {
+        "represented": 3
+      },
+      {
+        "olympics": 3
+      },
+      {
+        "lost": 3
+      },
+      {
+        "round": 3
+      },
+      {
+        "president": 3
+      },
+      {
+        "individual": 3
+      },
+      {
+        "event": 3
+      }
+    ]
+  },
+  "data scientist": {
+    "count": 2,
+    "frequent_words": [
+      {
+        "lee": 3
+      },
+      {
+        "messaging": 3
+      },
+      {
+        "data": 2
+      },
+      {
+        "scientist": 2
+      },
+      {
+        "thesis": 2
+      },
+      {
+        "exposure": 2
+      },
+      {
+        "media": 2
+      },
+      {
+        "acceptability": 2
+      },
+      {
+        "text": 2
+      },
+      {
+        "received": 2
+      },
+      {
+        "paper": 2
+      },
+      {
+        "society": 2
+      },
+      {
+        "joan": 1
+      },
+      {
+        "canadian": 1
+      },
+      {
+        "linguist": 1
+      },
+      {
+        "master": 1
+      },
+      {
+        "arts": 1
+      },
+      {
+        "entitled": 1
+      },
+      {
+        "txting": 1
+      },
+      {
+        "language": 1
+      }
+    ]
+  },
+  "parliamentarian": {
+    "count": 20,
+    "frequent_words": [
+      {
+        "member": 17
+      },
+      {
+        "hill": 16
+      },
+      {
+        "parliament": 15
+      },
+      {
+        "british": 12
+      },
+      {
+        "davenport": 11
+      },
+      {
+        "sir": 10
+      },
+      {
+        "first": 10
+      },
+      {
+        "south": 10
+      },
+      {
+        "college": 9
+      },
+      {
+        "lord": 9
+      },
+      {
+        "berkeley": 9
+      },
+      {
+        "september": 8
+      },
+      {
+        "politician": 8
+      },
+      {
+        "elected": 8
+      },
+      {
+        "australia": 8
+      },
+      {
+        "house": 8
+      },
+      {
+        "cromwell": 8
+      },
+      {
+        "richard": 7
+      },
+      {
+        "george": 7
+      },
+      {
+        "party": 7
+      }
+    ]
+  },
+  "locksmith": {
+    "count": 8,
+    "frequent_words": [
+      {
+        "germany": 8
+      },
+      {
+        "severing": 5
+      },
+      {
+        "locksmith": 4
+      },
+      {
+        "may": 4
+      },
+      {
+        "minister": 4
+      },
+      {
+        "prussia": 4
+      },
+      {
+        "german": 3
+      },
+      {
+        "relationship": 3
+      },
+      {
+        "children": 3
+      },
+      {
+        "two": 3
+      },
+      {
+        "three": 3
+      },
+      {
+        "brower": 3
+      },
+      {
+        "july": 3
+      },
+      {
+        "city": 3
+      },
+      {
+        "roxas": 3
+      },
+      {
+        "world": 3
+      },
+      {
+        "interior": 3
+      },
+      {
+        "east": 2
+      },
+      {
+        "since": 2
+      },
+      {
+        "sofia": 2
+      }
+    ]
+  },
+  "narration": {
+    "count": 1,
+    "frequent_words": [
+      {
+        "toronto": 2
+      },
+      {
+        "announcer": 2
+      },
+      {
+        "andy": 1
+      },
+      {
+        "frost": 1
+      },
+      {
+        "april": 1
+      },
+      {
+        "winnipeg": 1
+      },
+      {
+        "manitoba": 1
+      },
+      {
+        "radio": 1
+      },
+      {
+        "personality": 1
+      },
+      {
+        "well": 1
+      },
+      {
+        "public": 1
+      },
+      {
+        "address": 1
+      },
+      {
+        "air": 1
+      },
+      {
+        "canada": 1
+      },
+      {
+        "centre": 1
+      },
+      {
+        "maple": 1
+      },
+      {
+        "leafs": 1
+      },
+      {
+        "replaced": 1
+      },
+      {
+        "pa": 1
+      },
+      {
+        "paul": 1
+      }
+    ]
+  },
+  "naval surgeon": {
+    "count": 1,
+    "frequent_words": [
+      {
+        "medical": 2
+      },
+      {
+        "john": 1
+      },
+      {
+        "covert": 1
+      },
+      {
+        "boyd": 1
+      },
+      {
+        "december": 1
+      },
+      {
+        "july": 1
+      },
+      {
+        "surgeon": 1
+      },
+      {
+        "director": 1
+      },
+      {
+        "united": 1
+      },
+      {
+        "states": 1
+      },
+      {
+        "navy": 1
+      },
+      {
+        "corps": 1
+      },
+      {
+        "incorporators": 1
+      },
+      {
+        "american": 1
+      },
+      {
+        "red": 1
+      },
+      {
+        "cross": 1
+      },
+      {
+        "founders": 1
+      },
+      {
+        "kappa": 1
+      },
+      {
+        "sigma": 1
+      },
+      {
+        "fraternity": 1
+      }
+    ]
+  }
+}
