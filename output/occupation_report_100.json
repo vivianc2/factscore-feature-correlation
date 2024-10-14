@@ -1,0 +1,4617 @@
+{
+    "author": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "book": 89
+            },
+            {
+                "author": 79
+            },
+            {
+                "american": 63
+            },
+            {
+                "published": 50
+            },
+            {
+                "new": 42
+            },
+            {
+                "work": 35
+            },
+            {
+                "award": 32
+            },
+            {
+                "story": 32
+            },
+            {
+                "series": 31
+            },
+            {
+                "first": 30
+            },
+            {
+                "university": 29
+            },
+            {
+                "best": 28
+            },
+            {
+                "history": 28
+            },
+            {
+                "time": 28
+            },
+            {
+                "novel": 28
+            },
+            {
+                "film": 27
+            },
+            {
+                "writer": 27
+            },
+            {
+                "television": 27
+            },
+            {
+                "short": 26
+            },
+            {
+                "fiction": 25
+            }
+        ]
+    },
+    "actress": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 161
+            },
+            {
+                "actress": 128
+            },
+            {
+                "role": 97
+            },
+            {
+                "best": 46
+            },
+            {
+                "american": 43
+            },
+            {
+                "television": 39
+            },
+            {
+                "first": 32
+            },
+            {
+                "appeared": 28
+            },
+            {
+                "played": 28
+            },
+            {
+                "award": 27
+            },
+            {
+                "series": 25
+            },
+            {
+                "march": 21
+            },
+            {
+                "made": 21
+            },
+            {
+                "career": 21
+            },
+            {
+                "show": 19
+            },
+            {
+                "appearance": 18
+            },
+            {
+                "singer": 18
+            },
+            {
+                "year": 17
+            },
+            {
+                "model": 17
+            },
+            {
+                "director": 16
+            }
+        ]
+    },
+    "businesswoman": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "businesswoman": 61
+            },
+            {
+                "first": 48
+            },
+            {
+                "former": 43
+            },
+            {
+                "member": 42
+            },
+            {
+                "television": 39
+            },
+            {
+                "woman": 37
+            },
+            {
+                "city": 36
+            },
+            {
+                "american": 35
+            },
+            {
+                "show": 34
+            },
+            {
+                "actress": 33
+            },
+            {
+                "state": 29
+            },
+            {
+                "university": 27
+            },
+            {
+                "year": 26
+            },
+            {
+                "film": 26
+            },
+            {
+                "republican": 25
+            },
+            {
+                "mayor": 25
+            },
+            {
+                "award": 25
+            },
+            {
+                "since": 24
+            },
+            {
+                "served": 23
+            },
+            {
+                "album": 23
+            }
+        ]
+    },
+    "politician": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "party": 83
+            },
+            {
+                "politician": 81
+            },
+            {
+                "member": 67
+            },
+            {
+                "served": 53
+            },
+            {
+                "minister": 40
+            },
+            {
+                "mexican": 36
+            },
+            {
+                "national": 33
+            },
+            {
+                "deputy": 31
+            },
+            {
+                "state": 28
+            },
+            {
+                "election": 27
+            },
+            {
+                "parliament": 26
+            },
+            {
+                "elected": 25
+            },
+            {
+                "political": 24
+            },
+            {
+                "congress": 24
+            },
+            {
+                "government": 24
+            },
+            {
+                "house": 23
+            },
+            {
+                "representing": 21
+            },
+            {
+                "legislature": 20
+            },
+            {
+                "democratic": 19
+            },
+            {
+                "district": 19
+            }
+        ]
+    },
+    "composer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "music": 117
+            },
+            {
+                "composer": 96
+            },
+            {
+                "film": 53
+            },
+            {
+                "american": 44
+            },
+            {
+                "album": 40
+            },
+            {
+                "jazz": 37
+            },
+            {
+                "singer": 34
+            },
+            {
+                "band": 33
+            },
+            {
+                "work": 33
+            },
+            {
+                "musician": 33
+            },
+            {
+                "song": 30
+            },
+            {
+                "award": 28
+            },
+            {
+                "new": 27
+            },
+            {
+                "cortijo": 27
+            },
+            {
+                "member": 25
+            },
+            {
+                "released": 25
+            },
+            {
+                "composed": 25
+            },
+            {
+                "recording": 24
+            },
+            {
+                "best": 24
+            },
+            {
+                "musical": 23
+            }
+        ]
+    },
+    "musician": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "music": 85
+            },
+            {
+                "band": 83
+            },
+            {
+                "musician": 66
+            },
+            {
+                "album": 56
+            },
+            {
+                "american": 46
+            },
+            {
+                "released": 38
+            },
+            {
+                "song": 37
+            },
+            {
+                "member": 34
+            },
+            {
+                "first": 33
+            },
+            {
+                "rock": 32
+            },
+            {
+                "solo": 31
+            },
+            {
+                "jazz": 30
+            },
+            {
+                "record": 30
+            },
+            {
+                "singer": 29
+            },
+            {
+                "artist": 29
+            },
+            {
+                "guitarist": 28
+            },
+            {
+                "new": 27
+            },
+            {
+                "played": 23
+            },
+            {
+                "television": 23
+            },
+            {
+                "best": 22
+            }
+        ]
+    },
+    "arranger": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "music": 131
+            },
+            {
+                "composer": 73
+            },
+            {
+                "album": 68
+            },
+            {
+                "jazz": 65
+            },
+            {
+                "band": 55
+            },
+            {
+                "american": 53
+            },
+            {
+                "arranger": 50
+            },
+            {
+                "work": 50
+            },
+            {
+                "producer": 43
+            },
+            {
+                "musician": 40
+            },
+            {
+                "including": 39
+            },
+            {
+                "record": 37
+            },
+            {
+                "musical": 36
+            },
+            {
+                "new": 35
+            },
+            {
+                "artist": 33
+            },
+            {
+                "song": 33
+            },
+            {
+                "many": 32
+            },
+            {
+                "year": 31
+            },
+            {
+                "orchestra": 31
+            },
+            {
+                "film": 29
+            }
+        ]
+    },
+    "film director": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 345
+            },
+            {
+                "director": 129
+            },
+            {
+                "festival": 59
+            },
+            {
+                "directed": 53
+            },
+            {
+                "american": 42
+            },
+            {
+                "actor": 40
+            },
+            {
+                "award": 38
+            },
+            {
+                "screenwriter": 36
+            },
+            {
+                "international": 33
+            },
+            {
+                "producer": 32
+            },
+            {
+                "television": 27
+            },
+            {
+                "best": 24
+            },
+            {
+                "movie": 23
+            },
+            {
+                "writer": 22
+            },
+            {
+                "work": 19
+            },
+            {
+                "series": 19
+            },
+            {
+                "cannes": 19
+            },
+            {
+                "cinema": 18
+            },
+            {
+                "de": 15
+            },
+            {
+                "worked": 15
+            }
+        ]
+    },
+    "actor": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 132
+            },
+            {
+                "actor": 116
+            },
+            {
+                "role": 68
+            },
+            {
+                "television": 58
+            },
+            {
+                "series": 46
+            },
+            {
+                "american": 43
+            },
+            {
+                "best": 39
+            },
+            {
+                "show": 37
+            },
+            {
+                "appeared": 27
+            },
+            {
+                "director": 26
+            },
+            {
+                "award": 24
+            },
+            {
+                "stage": 24
+            },
+            {
+                "including": 23
+            },
+            {
+                "played": 23
+            },
+            {
+                "new": 23
+            },
+            {
+                "radio": 22
+            },
+            {
+                "june": 21
+            },
+            {
+                "drama": 20
+            },
+            {
+                "career": 19
+            },
+            {
+                "year": 18
+            }
+        ]
+    },
+    "essayist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "writer": 80
+            },
+            {
+                "essayist": 62
+            },
+            {
+                "work": 55
+            },
+            {
+                "poet": 49
+            },
+            {
+                "book": 46
+            },
+            {
+                "literary": 43
+            },
+            {
+                "american": 42
+            },
+            {
+                "de": 37
+            },
+            {
+                "literature": 37
+            },
+            {
+                "novel": 37
+            },
+            {
+                "story": 36
+            },
+            {
+                "author": 35
+            },
+            {
+                "poetry": 35
+            },
+            {
+                "university": 33
+            },
+            {
+                "award": 31
+            },
+            {
+                "published": 30
+            },
+            {
+                "critic": 29
+            },
+            {
+                "essay": 29
+            },
+            {
+                "life": 25
+            },
+            {
+                "fiction": 25
+            }
+        ]
+    },
+    "writer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "writer": 86
+            },
+            {
+                "book": 61
+            },
+            {
+                "american": 53
+            },
+            {
+                "film": 53
+            },
+            {
+                "series": 41
+            },
+            {
+                "university": 39
+            },
+            {
+                "new": 37
+            },
+            {
+                "work": 33
+            },
+            {
+                "award": 32
+            },
+            {
+                "story": 30
+            },
+            {
+                "author": 30
+            },
+            {
+                "including": 29
+            },
+            {
+                "producer": 28
+            },
+            {
+                "first": 26
+            },
+            {
+                "show": 25
+            },
+            {
+                "best": 24
+            },
+            {
+                "television": 24
+            },
+            {
+                "director": 23
+            },
+            {
+                "writing": 21
+            },
+            {
+                "short": 20
+            }
+        ]
+    },
+    "poet": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "poet": 119
+            },
+            {
+                "poetry": 74
+            },
+            {
+                "writer": 52
+            },
+            {
+                "work": 50
+            },
+            {
+                "literature": 47
+            },
+            {
+                "literary": 41
+            },
+            {
+                "book": 34
+            },
+            {
+                "university": 34
+            },
+            {
+                "poem": 31
+            },
+            {
+                "published": 27
+            },
+            {
+                "author": 27
+            },
+            {
+                "several": 23
+            },
+            {
+                "wrote": 23
+            },
+            {
+                "award": 23
+            },
+            {
+                "life": 22
+            },
+            {
+                "including": 22
+            },
+            {
+                "american": 22
+            },
+            {
+                "english": 22
+            },
+            {
+                "first": 21
+            },
+            {
+                "new": 21
+            }
+        ]
+    },
+    "playwright": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "playwright": 95
+            },
+            {
+                "theatre": 79
+            },
+            {
+                "film": 79
+            },
+            {
+                "play": 76
+            },
+            {
+                "award": 57
+            },
+            {
+                "work": 51
+            },
+            {
+                "writer": 46
+            },
+            {
+                "american": 45
+            },
+            {
+                "director": 38
+            },
+            {
+                "actor": 37
+            },
+            {
+                "first": 33
+            },
+            {
+                "poet": 32
+            },
+            {
+                "wrote": 32
+            },
+            {
+                "published": 31
+            },
+            {
+                "best": 30
+            },
+            {
+                "drama": 28
+            },
+            {
+                "new": 27
+            },
+            {
+                "novel": 27
+            },
+            {
+                "writing": 26
+            },
+            {
+                "many": 24
+            }
+        ]
+    },
+    "songwriter": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "music": 107
+            },
+            {
+                "album": 98
+            },
+            {
+                "song": 68
+            },
+            {
+                "record": 66
+            },
+            {
+                "band": 62
+            },
+            {
+                "singer": 59
+            },
+            {
+                "released": 58
+            },
+            {
+                "single": 53
+            },
+            {
+                "songwriter": 50
+            },
+            {
+                "american": 45
+            },
+            {
+                "first": 40
+            },
+            {
+                "artist": 39
+            },
+            {
+                "rock": 39
+            },
+            {
+                "year": 38
+            },
+            {
+                "country": 37
+            },
+            {
+                "chart": 35
+            },
+            {
+                "best": 34
+            },
+            {
+                "musician": 32
+            },
+            {
+                "new": 28
+            },
+            {
+                "hit": 27
+            }
+        ]
+    },
+    "singer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "music": 92
+            },
+            {
+                "album": 78
+            },
+            {
+                "singer": 78
+            },
+            {
+                "song": 73
+            },
+            {
+                "single": 56
+            },
+            {
+                "record": 46
+            },
+            {
+                "released": 44
+            },
+            {
+                "band": 44
+            },
+            {
+                "country": 40
+            },
+            {
+                "american": 38
+            },
+            {
+                "first": 35
+            },
+            {
+                "best": 34
+            },
+            {
+                "chart": 34
+            },
+            {
+                "artist": 30
+            },
+            {
+                "songwriter": 26
+            },
+            {
+                "hit": 26
+            },
+            {
+                "film": 25
+            },
+            {
+                "debut": 24
+            },
+            {
+                "show": 24
+            },
+            {
+                "musician": 23
+            }
+        ]
+    },
+    "travel writer": {
+        "count": 46,
+        "frequent_words": [
+            {
+                "travel": 87
+            },
+            {
+                "book": 46
+            },
+            {
+                "writer": 41
+            },
+            {
+                "time": 27
+            },
+            {
+                "writing": 23
+            },
+            {
+                "work": 21
+            },
+            {
+                "author": 21
+            },
+            {
+                "published": 20
+            },
+            {
+                "american": 19
+            },
+            {
+                "year": 16
+            },
+            {
+                "british": 16
+            },
+            {
+                "university": 14
+            },
+            {
+                "two": 14
+            },
+            {
+                "including": 14
+            },
+            {
+                "new": 14
+            },
+            {
+                "novel": 14
+            },
+            {
+                "life": 13
+            },
+            {
+                "first": 13
+            },
+            {
+                "journalist": 13
+            },
+            {
+                "magazine": 13
+            }
+        ]
+    },
+    "director": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 140
+            },
+            {
+                "director": 102
+            },
+            {
+                "television": 38
+            },
+            {
+                "award": 37
+            },
+            {
+                "american": 34
+            },
+            {
+                "actor": 31
+            },
+            {
+                "series": 31
+            },
+            {
+                "role": 30
+            },
+            {
+                "theatre": 30
+            },
+            {
+                "producer": 30
+            },
+            {
+                "first": 27
+            },
+            {
+                "directed": 26
+            },
+            {
+                "work": 25
+            },
+            {
+                "best": 23
+            },
+            {
+                "university": 19
+            },
+            {
+                "new": 19
+            },
+            {
+                "game": 19
+            },
+            {
+                "time": 18
+            },
+            {
+                "world": 18
+            },
+            {
+                "starred": 18
+            }
+        ]
+    },
+    "teacher": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "teacher": 42
+            },
+            {
+                "year": 33
+            },
+            {
+                "member": 33
+            },
+            {
+                "first": 31
+            },
+            {
+                "university": 30
+            },
+            {
+                "school": 28
+            },
+            {
+                "book": 25
+            },
+            {
+                "house": 25
+            },
+            {
+                "work": 23
+            },
+            {
+                "education": 23
+            },
+            {
+                "new": 22
+            },
+            {
+                "american": 22
+            },
+            {
+                "served": 20
+            },
+            {
+                "author": 19
+            },
+            {
+                "former": 18
+            },
+            {
+                "yoga": 18
+            },
+            {
+                "two": 18
+            },
+            {
+                "john": 17
+            },
+            {
+                "life": 17
+            },
+            {
+                "published": 17
+            }
+        ]
+    },
+    "lawyer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "law": 79
+            },
+            {
+                "state": 63
+            },
+            {
+                "lawyer": 62
+            },
+            {
+                "served": 55
+            },
+            {
+                "member": 45
+            },
+            {
+                "politician": 37
+            },
+            {
+                "university": 35
+            },
+            {
+                "united": 34
+            },
+            {
+                "president": 33
+            },
+            {
+                "court": 31
+            },
+            {
+                "american": 31
+            },
+            {
+                "party": 30
+            },
+            {
+                "year": 30
+            },
+            {
+                "right": 27
+            },
+            {
+                "school": 26
+            },
+            {
+                "house": 26
+            },
+            {
+                "human": 25
+            },
+            {
+                "justice": 24
+            },
+            {
+                "political": 24
+            },
+            {
+                "election": 23
+            }
+        ]
+    },
+    "screenwriter": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 271
+            },
+            {
+                "director": 82
+            },
+            {
+                "screenwriter": 76
+            },
+            {
+                "american": 54
+            },
+            {
+                "directed": 45
+            },
+            {
+                "festival": 40
+            },
+            {
+                "producer": 38
+            },
+            {
+                "award": 37
+            },
+            {
+                "series": 36
+            },
+            {
+                "actor": 29
+            },
+            {
+                "best": 28
+            },
+            {
+                "television": 28
+            },
+            {
+                "work": 25
+            },
+            {
+                "wrote": 24
+            },
+            {
+                "screenplay": 23
+            },
+            {
+                "writer": 23
+            },
+            {
+                "book": 23
+            },
+            {
+                "first": 20
+            },
+            {
+                "novel": 20
+            },
+            {
+                "time": 20
+            }
+        ]
+    },
+    "record producer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "album": 105
+            },
+            {
+                "record": 103
+            },
+            {
+                "music": 100
+            },
+            {
+                "producer": 94
+            },
+            {
+                "artist": 83
+            },
+            {
+                "american": 54
+            },
+            {
+                "band": 51
+            },
+            {
+                "songwriter": 50
+            },
+            {
+                "song": 49
+            },
+            {
+                "award": 48
+            },
+            {
+                "released": 48
+            },
+            {
+                "single": 42
+            },
+            {
+                "singer": 38
+            },
+            {
+                "first": 38
+            },
+            {
+                "best": 36
+            },
+            {
+                "including": 36
+            },
+            {
+                "year": 36
+            },
+            {
+                "solo": 36
+            },
+            {
+                "musician": 34
+            },
+            {
+                "group": 33
+            }
+        ]
+    },
+    "film producer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 349
+            },
+            {
+                "producer": 103
+            },
+            {
+                "director": 66
+            },
+            {
+                "award": 49
+            },
+            {
+                "production": 48
+            },
+            {
+                "american": 45
+            },
+            {
+                "produced": 37
+            },
+            {
+                "actor": 35
+            },
+            {
+                "best": 34
+            },
+            {
+                "screenwriter": 33
+            },
+            {
+                "picture": 32
+            },
+            {
+                "directed": 29
+            },
+            {
+                "television": 27
+            },
+            {
+                "company": 26
+            },
+            {
+                "festival": 26
+            },
+            {
+                "career": 26
+            },
+            {
+                "work": 26
+            },
+            {
+                "first": 25
+            },
+            {
+                "series": 24
+            },
+            {
+                "movie": 23
+            }
+        ]
+    },
+    "architect": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "architect": 130
+            },
+            {
+                "work": 59
+            },
+            {
+                "building": 58
+            },
+            {
+                "architecture": 51
+            },
+            {
+                "design": 50
+            },
+            {
+                "new": 43
+            },
+            {
+                "university": 39
+            },
+            {
+                "american": 35
+            },
+            {
+                "park": 35
+            },
+            {
+                "first": 34
+            },
+            {
+                "designed": 34
+            },
+            {
+                "city": 32
+            },
+            {
+                "school": 29
+            },
+            {
+                "project": 28
+            },
+            {
+                "state": 28
+            },
+            {
+                "many": 27
+            },
+            {
+                "landscape": 25
+            },
+            {
+                "george": 24
+            },
+            {
+                "washington": 23
+            },
+            {
+                "office": 21
+            }
+        ]
+    },
+    "model": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "model": 103
+            },
+            {
+                "actress": 56
+            },
+            {
+                "role": 51
+            },
+            {
+                "film": 47
+            },
+            {
+                "television": 46
+            },
+            {
+                "series": 37
+            },
+            {
+                "actor": 36
+            },
+            {
+                "show": 34
+            },
+            {
+                "tv": 34
+            },
+            {
+                "american": 29
+            },
+            {
+                "year": 28
+            },
+            {
+                "best": 28
+            },
+            {
+                "first": 28
+            },
+            {
+                "miss": 28
+            },
+            {
+                "singer": 24
+            },
+            {
+                "debut": 19
+            },
+            {
+                "currently": 19
+            },
+            {
+                "fashion": 18
+            },
+            {
+                "career": 18
+            },
+            {
+                "appeared": 16
+            }
+        ]
+    },
+    "comedian": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "comedian": 89
+            },
+            {
+                "show": 88
+            },
+            {
+                "comedy": 78
+            },
+            {
+                "actor": 70
+            },
+            {
+                "film": 60
+            },
+            {
+                "television": 53
+            },
+            {
+                "american": 51
+            },
+            {
+                "writer": 44
+            },
+            {
+                "best": 40
+            },
+            {
+                "series": 40
+            },
+            {
+                "role": 39
+            },
+            {
+                "award": 34
+            },
+            {
+                "actress": 32
+            },
+            {
+                "appeared": 31
+            },
+            {
+                "radio": 28
+            },
+            {
+                "voice": 21
+            },
+            {
+                "host": 21
+            },
+            {
+                "stage": 19
+            },
+            {
+                "character": 17
+            },
+            {
+                "new": 17
+            }
+        ]
+    },
+    "novelist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "novel": 110
+            },
+            {
+                "book": 73
+            },
+            {
+                "writer": 67
+            },
+            {
+                "novelist": 50
+            },
+            {
+                "published": 50
+            },
+            {
+                "american": 49
+            },
+            {
+                "author": 46
+            },
+            {
+                "story": 45
+            },
+            {
+                "work": 42
+            },
+            {
+                "fiction": 40
+            },
+            {
+                "award": 39
+            },
+            {
+                "first": 35
+            },
+            {
+                "best": 34
+            },
+            {
+                "time": 32
+            },
+            {
+                "university": 31
+            },
+            {
+                "new": 29
+            },
+            {
+                "literary": 27
+            },
+            {
+                "short": 25
+            },
+            {
+                "english": 24
+            },
+            {
+                "year": 24
+            }
+        ]
+    },
+    "producer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 115
+            },
+            {
+                "producer": 88
+            },
+            {
+                "music": 55
+            },
+            {
+                "american": 52
+            },
+            {
+                "director": 45
+            },
+            {
+                "series": 42
+            },
+            {
+                "award": 41
+            },
+            {
+                "work": 32
+            },
+            {
+                "television": 32
+            },
+            {
+                "album": 29
+            },
+            {
+                "new": 28
+            },
+            {
+                "game": 28
+            },
+            {
+                "best": 27
+            },
+            {
+                "record": 26
+            },
+            {
+                "artist": 25
+            },
+            {
+                "first": 25
+            },
+            {
+                "produced": 25
+            },
+            {
+                "writer": 25
+            },
+            {
+                "show": 24
+            },
+            {
+                "actor": 23
+            }
+        ]
+    },
+    "professor": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "university": 158
+            },
+            {
+                "professor": 96
+            },
+            {
+                "american": 64
+            },
+            {
+                "law": 44
+            },
+            {
+                "new": 39
+            },
+            {
+                "state": 38
+            },
+            {
+                "work": 37
+            },
+            {
+                "writer": 37
+            },
+            {
+                "college": 36
+            },
+            {
+                "book": 34
+            },
+            {
+                "year": 33
+            },
+            {
+                "served": 32
+            },
+            {
+                "president": 31
+            },
+            {
+                "research": 28
+            },
+            {
+                "study": 28
+            },
+            {
+                "school": 28
+            },
+            {
+                "science": 27
+            },
+            {
+                "story": 26
+            },
+            {
+                "texas": 26
+            },
+            {
+                "member": 25
+            }
+        ]
+    },
+    "journalist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "journalist": 78
+            },
+            {
+                "news": 48
+            },
+            {
+                "television": 43
+            },
+            {
+                "new": 34
+            },
+            {
+                "american": 32
+            },
+            {
+                "editor": 32
+            },
+            {
+                "magazine": 32
+            },
+            {
+                "newspaper": 31
+            },
+            {
+                "book": 29
+            },
+            {
+                "year": 28
+            },
+            {
+                "show": 26
+            },
+            {
+                "world": 25
+            },
+            {
+                "radio": 25
+            },
+            {
+                "time": 23
+            },
+            {
+                "first": 22
+            },
+            {
+                "author": 22
+            },
+            {
+                "worked": 22
+            },
+            {
+                "including": 21
+            },
+            {
+                "writer": 21
+            },
+            {
+                "national": 21
+            }
+        ]
+    },
+    "translator": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "translator": 93
+            },
+            {
+                "writer": 70
+            },
+            {
+                "work": 69
+            },
+            {
+                "poet": 60
+            },
+            {
+                "literature": 56
+            },
+            {
+                "literary": 52
+            },
+            {
+                "university": 49
+            },
+            {
+                "published": 47
+            },
+            {
+                "de": 46
+            },
+            {
+                "first": 45
+            },
+            {
+                "english": 40
+            },
+            {
+                "book": 40
+            },
+            {
+                "poetry": 40
+            },
+            {
+                "language": 38
+            },
+            {
+                "french": 38
+            },
+            {
+                "author": 36
+            },
+            {
+                "translation": 32
+            },
+            {
+                "american": 29
+            },
+            {
+                "novel": 27
+            },
+            {
+                "romanian": 26
+            }
+        ]
+    },
+    "coach": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "coach": 128
+            },
+            {
+                "team": 51
+            },
+            {
+                "hockey": 45
+            },
+            {
+                "rugby": 41
+            },
+            {
+                "university": 38
+            },
+            {
+                "championship": 33
+            },
+            {
+                "world": 32
+            },
+            {
+                "national": 32
+            },
+            {
+                "year": 30
+            },
+            {
+                "american": 29
+            },
+            {
+                "head": 28
+            },
+            {
+                "former": 28
+            },
+            {
+                "played": 28
+            },
+            {
+                "player": 27
+            },
+            {
+                "league": 22
+            },
+            {
+                "cup": 21
+            },
+            {
+                "college": 21
+            },
+            {
+                "ice": 20
+            },
+            {
+                "first": 20
+            },
+            {
+                "career": 20
+            }
+        ]
+    },
+    "host": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "show": 118
+            },
+            {
+                "host": 96
+            },
+            {
+                "television": 71
+            },
+            {
+                "tv": 60
+            },
+            {
+                "radio": 40
+            },
+            {
+                "actress": 40
+            },
+            {
+                "award": 32
+            },
+            {
+                "news": 29
+            },
+            {
+                "talk": 29
+            },
+            {
+                "best": 28
+            },
+            {
+                "singer": 28
+            },
+            {
+                "american": 28
+            },
+            {
+                "world": 25
+            },
+            {
+                "actor": 25
+            },
+            {
+                "series": 25
+            },
+            {
+                "film": 24
+            },
+            {
+                "program": 23
+            },
+            {
+                "first": 23
+            },
+            {
+                "year": 21
+            },
+            {
+                "morning": 20
+            }
+        ]
+    },
+    "organist": {
+        "count": 89,
+        "frequent_words": [
+            {
+                "music": 133
+            },
+            {
+                "organist": 115
+            },
+            {
+                "organ": 62
+            },
+            {
+                "composer": 49
+            },
+            {
+                "american": 49
+            },
+            {
+                "record": 41
+            },
+            {
+                "album": 41
+            },
+            {
+                "church": 39
+            },
+            {
+                "director": 36
+            },
+            {
+                "school": 33
+            },
+            {
+                "year": 31
+            },
+            {
+                "concert": 30
+            },
+            {
+                "jazz": 29
+            },
+            {
+                "cathedral": 26
+            },
+            {
+                "university": 25
+            },
+            {
+                "new": 24
+            },
+            {
+                "piano": 24
+            },
+            {
+                "first": 22
+            },
+            {
+                "song": 22
+            },
+            {
+                "conductor": 22
+            }
+        ]
+    },
+    "rapper": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "album": 117
+            },
+            {
+                "rapper": 92
+            },
+            {
+                "released": 86
+            },
+            {
+                "record": 78
+            },
+            {
+                "artist": 62
+            },
+            {
+                "stage": 62
+            },
+            {
+                "single": 60
+            },
+            {
+                "american": 59
+            },
+            {
+                "music": 58
+            },
+            {
+                "producer": 53
+            },
+            {
+                "better": 50
+            },
+            {
+                "first": 43
+            },
+            {
+                "best": 40
+            },
+            {
+                "hop": 39
+            },
+            {
+                "hip": 38
+            },
+            {
+                "group": 38
+            },
+            {
+                "label": 34
+            },
+            {
+                "member": 34
+            },
+            {
+                "debut": 34
+            },
+            {
+                "song": 31
+            }
+        ]
+    },
+    "radio host": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "radio": 222
+            },
+            {
+                "host": 144
+            },
+            {
+                "show": 138
+            },
+            {
+                "television": 72
+            },
+            {
+                "program": 69
+            },
+            {
+                "american": 65
+            },
+            {
+                "talk": 44
+            },
+            {
+                "new": 42
+            },
+            {
+                "since": 36
+            },
+            {
+                "station": 35
+            },
+            {
+                "music": 34
+            },
+            {
+                "news": 33
+            },
+            {
+                "channel": 31
+            },
+            {
+                "year": 29
+            },
+            {
+                "sport": 28
+            },
+            {
+                "network": 27
+            },
+            {
+                "work": 27
+            },
+            {
+                "actor": 26
+            },
+            {
+                "time": 25
+            },
+            {
+                "first": 25
+            }
+        ]
+    },
+    "entrepreneur": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "entrepreneur": 71
+            },
+            {
+                "company": 43
+            },
+            {
+                "american": 40
+            },
+            {
+                "award": 26
+            },
+            {
+                "artist": 23
+            },
+            {
+                "first": 22
+            },
+            {
+                "business": 22
+            },
+            {
+                "director": 21
+            },
+            {
+                "film": 20
+            },
+            {
+                "best": 20
+            },
+            {
+                "new": 20
+            },
+            {
+                "well": 19
+            },
+            {
+                "work": 19
+            },
+            {
+                "world": 19
+            },
+            {
+                "founded": 17
+            },
+            {
+                "producer": 17
+            },
+            {
+                "founder": 17
+            },
+            {
+                "medium": 17
+            },
+            {
+                "music": 17
+            },
+            {
+                "ceo": 17
+            }
+        ]
+    },
+    "athlete": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "athlete": 68
+            },
+            {
+                "world": 53
+            },
+            {
+                "game": 42
+            },
+            {
+                "year": 40
+            },
+            {
+                "championship": 38
+            },
+            {
+                "medal": 33
+            },
+            {
+                "american": 33
+            },
+            {
+                "first": 29
+            },
+            {
+                "sport": 29
+            },
+            {
+                "national": 29
+            },
+            {
+                "former": 26
+            },
+            {
+                "olympics": 24
+            },
+            {
+                "canadian": 24
+            },
+            {
+                "gold": 23
+            },
+            {
+                "record": 23
+            },
+            {
+                "event": 23
+            },
+            {
+                "member": 23
+            },
+            {
+                "champion": 23
+            },
+            {
+                "team": 23
+            },
+            {
+                "award": 22
+            }
+        ]
+    },
+    "philanthropist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "philanthropist": 80
+            },
+            {
+                "american": 58
+            },
+            {
+                "company": 46
+            },
+            {
+                "new": 38
+            },
+            {
+                "first": 36
+            },
+            {
+                "business": 32
+            },
+            {
+                "university": 28
+            },
+            {
+                "member": 27
+            },
+            {
+                "chairman": 26
+            },
+            {
+                "year": 26
+            },
+            {
+                "president": 25
+            },
+            {
+                "board": 24
+            },
+            {
+                "album": 23
+            },
+            {
+                "world": 21
+            },
+            {
+                "businessman": 21
+            },
+            {
+                "art": 21
+            },
+            {
+                "school": 20
+            },
+            {
+                "died": 20
+            },
+            {
+                "york": 19
+            },
+            {
+                "city": 19
+            }
+        ]
+    },
+    "businessman": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "businessman": 68
+            },
+            {
+                "new": 37
+            },
+            {
+                "american": 35
+            },
+            {
+                "served": 34
+            },
+            {
+                "company": 33
+            },
+            {
+                "state": 30
+            },
+            {
+                "member": 29
+            },
+            {
+                "house": 28
+            },
+            {
+                "politician": 25
+            },
+            {
+                "party": 24
+            },
+            {
+                "first": 24
+            },
+            {
+                "former": 24
+            },
+            {
+                "president": 23
+            },
+            {
+                "louisiana": 22
+            },
+            {
+                "year": 22
+            },
+            {
+                "elected": 21
+            },
+            {
+                "district": 19
+            },
+            {
+                "business": 18
+            },
+            {
+                "september": 18
+            },
+            {
+                "june": 18
+            }
+        ]
+    },
+    "economist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "economist": 84
+            },
+            {
+                "university": 66
+            },
+            {
+                "economics": 58
+            },
+            {
+                "minister": 56
+            },
+            {
+                "party": 46
+            },
+            {
+                "member": 43
+            },
+            {
+                "politician": 34
+            },
+            {
+                "professor": 31
+            },
+            {
+                "economic": 31
+            },
+            {
+                "served": 31
+            },
+            {
+                "finance": 30
+            },
+            {
+                "national": 27
+            },
+            {
+                "business": 23
+            },
+            {
+                "year": 22
+            },
+            {
+                "election": 22
+            },
+            {
+                "european": 22
+            },
+            {
+                "american": 21
+            },
+            {
+                "president": 21
+            },
+            {
+                "book": 21
+            },
+            {
+                "cabinet": 21
+            }
+        ]
+    },
+    "revolutionary": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "revolutionary": 110
+            },
+            {
+                "war": 47
+            },
+            {
+                "revolution": 47
+            },
+            {
+                "leader": 42
+            },
+            {
+                "party": 40
+            },
+            {
+                "mao": 36
+            },
+            {
+                "bulgarian": 34
+            },
+            {
+                "movement": 34
+            },
+            {
+                "china": 33
+            },
+            {
+                "russian": 32
+            },
+            {
+                "communist": 31
+            },
+            {
+                "first": 28
+            },
+            {
+                "political": 28
+            },
+            {
+                "sun": 25
+            },
+            {
+                "year": 24
+            },
+            {
+                "national": 24
+            },
+            {
+                "army": 23
+            },
+            {
+                "republic": 23
+            },
+            {
+                "chinese": 22
+            },
+            {
+                "october": 22
+            }
+        ]
+    },
+    "environmentalist": {
+        "count": 93,
+        "frequent_words": [
+            {
+                "environmentalist": 59
+            },
+            {
+                "environmental": 50
+            },
+            {
+                "award": 42
+            },
+            {
+                "film": 36
+            },
+            {
+                "director": 35
+            },
+            {
+                "american": 28
+            },
+            {
+                "green": 28
+            },
+            {
+                "first": 27
+            },
+            {
+                "india": 26
+            },
+            {
+                "environment": 25
+            },
+            {
+                "book": 24
+            },
+            {
+                "work": 24
+            },
+            {
+                "society": 23
+            },
+            {
+                "member": 23
+            },
+            {
+                "year": 22
+            },
+            {
+                "development": 22
+            },
+            {
+                "world": 21
+            },
+            {
+                "movement": 21
+            },
+            {
+                "new": 20
+            },
+            {
+                "state": 19
+            }
+        ]
+    },
+    "stage": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 106
+            },
+            {
+                "role": 92
+            },
+            {
+                "actor": 73
+            },
+            {
+                "theatre": 68
+            },
+            {
+                "stage": 67
+            },
+            {
+                "television": 61
+            },
+            {
+                "american": 52
+            },
+            {
+                "actress": 47
+            },
+            {
+                "appeared": 42
+            },
+            {
+                "series": 38
+            },
+            {
+                "broadway": 36
+            },
+            {
+                "first": 34
+            },
+            {
+                "new": 33
+            },
+            {
+                "award": 31
+            },
+            {
+                "play": 29
+            },
+            {
+                "best": 27
+            },
+            {
+                "production": 27
+            },
+            {
+                "played": 26
+            },
+            {
+                "tv": 25
+            },
+            {
+                "musical": 24
+            }
+        ]
+    },
+    "tv personality": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "show": 82
+            },
+            {
+                "television": 76
+            },
+            {
+                "tv": 55
+            },
+            {
+                "personality": 47
+            },
+            {
+                "american": 45
+            },
+            {
+                "host": 40
+            },
+            {
+                "best": 30
+            },
+            {
+                "new": 30
+            },
+            {
+                "series": 28
+            },
+            {
+                "radio": 27
+            },
+            {
+                "first": 24
+            },
+            {
+                "network": 23
+            },
+            {
+                "music": 23
+            },
+            {
+                "award": 23
+            },
+            {
+                "world": 22
+            },
+            {
+                "reality": 21
+            },
+            {
+                "album": 21
+            },
+            {
+                "artist": 19
+            },
+            {
+                "deen": 19
+            },
+            {
+                "actress": 18
+            }
+        ]
+    },
+    "dancer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "dancer": 93
+            },
+            {
+                "dance": 73
+            },
+            {
+                "film": 59
+            },
+            {
+                "american": 47
+            },
+            {
+                "show": 44
+            },
+            {
+                "television": 41
+            },
+            {
+                "role": 41
+            },
+            {
+                "ballet": 40
+            },
+            {
+                "best": 39
+            },
+            {
+                "actress": 39
+            },
+            {
+                "music": 38
+            },
+            {
+                "singer": 33
+            },
+            {
+                "first": 33
+            },
+            {
+                "series": 31
+            },
+            {
+                "year": 31
+            },
+            {
+                "award": 31
+            },
+            {
+                "actor": 30
+            },
+            {
+                "album": 27
+            },
+            {
+                "song": 27
+            },
+            {
+                "artist": 27
+            }
+        ]
+    },
+    "educator": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "university": 60
+            },
+            {
+                "american": 54
+            },
+            {
+                "educator": 48
+            },
+            {
+                "school": 44
+            },
+            {
+                "member": 37
+            },
+            {
+                "state": 33
+            },
+            {
+                "new": 30
+            },
+            {
+                "served": 27
+            },
+            {
+                "education": 25
+            },
+            {
+                "jazz": 25
+            },
+            {
+                "college": 25
+            },
+            {
+                "first": 24
+            },
+            {
+                "house": 23
+            },
+            {
+                "book": 22
+            },
+            {
+                "district": 21
+            },
+            {
+                "music": 20
+            },
+            {
+                "president": 20
+            },
+            {
+                "november": 19
+            },
+            {
+                "work": 18
+            },
+            {
+                "child": 18
+            }
+        ]
+    },
+    "guitarist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "band": 112
+            },
+            {
+                "guitarist": 108
+            },
+            {
+                "album": 88
+            },
+            {
+                "music": 77
+            },
+            {
+                "guitar": 57
+            },
+            {
+                "american": 50
+            },
+            {
+                "record": 49
+            },
+            {
+                "blue": 48
+            },
+            {
+                "singer": 47
+            },
+            {
+                "musician": 44
+            },
+            {
+                "rock": 43
+            },
+            {
+                "released": 41
+            },
+            {
+                "song": 39
+            },
+            {
+                "recording": 34
+            },
+            {
+                "member": 32
+            },
+            {
+                "recorded": 30
+            },
+            {
+                "artist": 29
+            },
+            {
+                "played": 29
+            },
+            {
+                "tisziji": 28
+            },
+            {
+                "play": 27
+            }
+        ]
+    },
+    "entertainer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "show": 73
+            },
+            {
+                "entertainer": 58
+            },
+            {
+                "american": 51
+            },
+            {
+                "television": 45
+            },
+            {
+                "singer": 42
+            },
+            {
+                "career": 31
+            },
+            {
+                "music": 28
+            },
+            {
+                "song": 26
+            },
+            {
+                "album": 26
+            },
+            {
+                "artist": 24
+            },
+            {
+                "new": 23
+            },
+            {
+                "year": 23
+            },
+            {
+                "first": 23
+            },
+            {
+                "best": 22
+            },
+            {
+                "musical": 22
+            },
+            {
+                "award": 22
+            },
+            {
+                "film": 21
+            },
+            {
+                "magician": 20
+            },
+            {
+                "tv": 20
+            },
+            {
+                "released": 20
+            }
+        ]
+    },
+    "voice actor": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "voice": 157
+            },
+            {
+                "actor": 125
+            },
+            {
+                "series": 76
+            },
+            {
+                "role": 72
+            },
+            {
+                "film": 71
+            },
+            {
+                "american": 56
+            },
+            {
+                "television": 50
+            },
+            {
+                "best": 37
+            },
+            {
+                "game": 34
+            },
+            {
+                "show": 30
+            },
+            {
+                "character": 25
+            },
+            {
+                "work": 25
+            },
+            {
+                "video": 23
+            },
+            {
+                "anime": 23
+            },
+            {
+                "well": 22
+            },
+            {
+                "appeared": 22
+            },
+            {
+                "stage": 20
+            },
+            {
+                "animated": 20
+            },
+            {
+                "provided": 19
+            },
+            {
+                "writer": 18
+            }
+        ]
+    },
+    "columnist": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "columnist": 67
+            },
+            {
+                "american": 57
+            },
+            {
+                "journalist": 45
+            },
+            {
+                "book": 41
+            },
+            {
+                "time": 39
+            },
+            {
+                "author": 39
+            },
+            {
+                "new": 39
+            },
+            {
+                "newspaper": 37
+            },
+            {
+                "television": 35
+            },
+            {
+                "column": 31
+            },
+            {
+                "news": 30
+            },
+            {
+                "york": 28
+            },
+            {
+                "best": 26
+            },
+            {
+                "show": 26
+            },
+            {
+                "editor": 25
+            },
+            {
+                "writer": 25
+            },
+            {
+                "university": 25
+            },
+            {
+                "national": 24
+            },
+            {
+                "sport": 24
+            },
+            {
+                "medium": 21
+            }
+        ]
+    },
+    "narrator": {
+        "count": 54,
+        "frequent_words": [
+            {
+                "voice": 43
+            },
+            {
+                "actor": 42
+            },
+            {
+                "narrator": 38
+            },
+            {
+                "film": 38
+            },
+            {
+                "role": 36
+            },
+            {
+                "series": 35
+            },
+            {
+                "television": 34
+            },
+            {
+                "american": 31
+            },
+            {
+                "best": 19
+            },
+            {
+                "show": 19
+            },
+            {
+                "tv": 14
+            },
+            {
+                "new": 13
+            },
+            {
+                "narrated": 13
+            },
+            {
+                "stage": 12
+            },
+            {
+                "including": 12
+            },
+            {
+                "game": 12
+            },
+            {
+                "fleming": 12
+            },
+            {
+                "time": 11
+            },
+            {
+                "appeared": 11
+            },
+            {
+                "radio": 11
+            }
+        ]
+    },
+    "television host": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "television": 143
+            },
+            {
+                "host": 122
+            },
+            {
+                "show": 117
+            },
+            {
+                "film": 59
+            },
+            {
+                "series": 44
+            },
+            {
+                "actor": 41
+            },
+            {
+                "tv": 41
+            },
+            {
+                "american": 36
+            },
+            {
+                "best": 35
+            },
+            {
+                "year": 28
+            },
+            {
+                "singer": 28
+            },
+            {
+                "radio": 27
+            },
+            {
+                "model": 27
+            },
+            {
+                "producer": 27
+            },
+            {
+                "role": 27
+            },
+            {
+                "first": 26
+            },
+            {
+                "award": 26
+            },
+            {
+                "actress": 25
+            },
+            {
+                "album": 25
+            },
+            {
+                "career": 24
+            }
+        ]
+    },
+    "media executive": {
+        "count": 46,
+        "frequent_words": [
+            {
+                "executive": 62
+            },
+            {
+                "medium": 56
+            },
+            {
+                "film": 33
+            },
+            {
+                "television": 31
+            },
+            {
+                "president": 26
+            },
+            {
+                "producer": 25
+            },
+            {
+                "new": 23
+            },
+            {
+                "company": 22
+            },
+            {
+                "american": 20
+            },
+            {
+                "news": 19
+            },
+            {
+                "entertainment": 19
+            },
+            {
+                "chief": 17
+            },
+            {
+                "music": 17
+            },
+            {
+                "officer": 16
+            },
+            {
+                "production": 16
+            },
+            {
+                "served": 15
+            },
+            {
+                "chairman": 15
+            },
+            {
+                "network": 14
+            },
+            {
+                "september": 14
+            },
+            {
+                "ceo": 14
+            }
+        ]
+    },
+    "sportsman": {
+        "count": 40,
+        "frequent_words": [
+            {
+                "sportsman": 24
+            },
+            {
+                "first": 22
+            },
+            {
+                "new": 19
+            },
+            {
+                "gold": 16
+            },
+            {
+                "indian": 15
+            },
+            {
+                "medal": 14
+            },
+            {
+                "game": 14
+            },
+            {
+                "american": 12
+            },
+            {
+                "time": 11
+            },
+            {
+                "york": 11
+            },
+            {
+                "world": 10
+            },
+            {
+                "india": 10
+            },
+            {
+                "shooter": 10
+            },
+            {
+                "year": 10
+            },
+            {
+                "puerto": 9
+            },
+            {
+                "olympic": 9
+            },
+            {
+                "mccleester": 9
+            },
+            {
+                "rico": 8
+            },
+            {
+                "red": 8
+            },
+            {
+                "show": 8
+            }
+        ]
+    },
+    "broadcasting": {
+        "count": 33,
+        "frequent_words": [
+            {
+                "broadcasting": 33
+            },
+            {
+                "radio": 32
+            },
+            {
+                "television": 15
+            },
+            {
+                "first": 14
+            },
+            {
+                "president": 12
+            },
+            {
+                "chairman": 11
+            },
+            {
+                "work": 11
+            },
+            {
+                "show": 11
+            },
+            {
+                "member": 10
+            },
+            {
+                "ceylon": 10
+            },
+            {
+                "station": 10
+            },
+            {
+                "american": 9
+            },
+            {
+                "director": 9
+            },
+            {
+                "sri": 9
+            },
+            {
+                "election": 9
+            },
+            {
+                "year": 9
+            },
+            {
+                "music": 8
+            },
+            {
+                "executive": 8
+            },
+            {
+                "medium": 8
+            },
+            {
+                "public": 8
+            }
+        ]
+    },
+    "film actress": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "film": 273
+            },
+            {
+                "actress": 134
+            },
+            {
+                "role": 95
+            },
+            {
+                "appeared": 37
+            },
+            {
+                "american": 36
+            },
+            {
+                "career": 36
+            },
+            {
+                "first": 35
+            },
+            {
+                "starred": 35
+            },
+            {
+                "indian": 33
+            },
+            {
+                "made": 30
+            },
+            {
+                "best": 27
+            },
+            {
+                "married": 27
+            },
+            {
+                "acting": 25
+            },
+            {
+                "television": 25
+            },
+            {
+                "starring": 25
+            },
+            {
+                "debut": 24
+            },
+            {
+                "year": 22
+            },
+            {
+                "award": 22
+            },
+            {
+                "stage": 22
+            },
+            {
+                "director": 22
+            }
+        ]
+    },
+    "military officer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "military": 91
+            },
+            {
+                "general": 89
+            },
+            {
+                "served": 70
+            },
+            {
+                "army": 69
+            },
+            {
+                "officer": 66
+            },
+            {
+                "force": 64
+            },
+            {
+                "uganda": 47
+            },
+            {
+                "war": 43
+            },
+            {
+                "state": 43
+            },
+            {
+                "member": 38
+            },
+            {
+                "white": 38
+            },
+            {
+                "updf": 35
+            },
+            {
+                "court": 35
+            },
+            {
+                "commander": 33
+            },
+            {
+                "president": 33
+            },
+            {
+                "government": 33
+            },
+            {
+                "minister": 33
+            },
+            {
+                "united": 31
+            },
+            {
+                "appointed": 30
+            },
+            {
+                "people": 30
+            }
+        ]
+    },
+    "pastor": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "church": 128
+            },
+            {
+                "pastor": 113
+            },
+            {
+                "baptist": 50
+            },
+            {
+                "christian": 47
+            },
+            {
+                "year": 35
+            },
+            {
+                "new": 33
+            },
+            {
+                "first": 29
+            },
+            {
+                "senior": 28
+            },
+            {
+                "life": 26
+            },
+            {
+                "american": 26
+            },
+            {
+                "ministry": 25
+            },
+            {
+                "college": 24
+            },
+            {
+                "university": 24
+            },
+            {
+                "founder": 22
+            },
+            {
+                "author": 22
+            },
+            {
+                "book": 22
+            },
+            {
+                "bible": 21
+            },
+            {
+                "member": 21
+            },
+            {
+                "president": 21
+            },
+            {
+                "november": 19
+            }
+        ]
+    },
+    "stuntman": {
+        "count": 98,
+        "frequent_words": [
+            {
+                "film": 130
+            },
+            {
+                "actor": 119
+            },
+            {
+                "stuntman": 95
+            },
+            {
+                "stunt": 63
+            },
+            {
+                "american": 62
+            },
+            {
+                "role": 55
+            },
+            {
+                "television": 53
+            },
+            {
+                "appeared": 33
+            },
+            {
+                "martial": 31
+            },
+            {
+                "best": 29
+            },
+            {
+                "movie": 29
+            },
+            {
+                "played": 28
+            },
+            {
+                "series": 26
+            },
+            {
+                "artist": 24
+            },
+            {
+                "first": 24
+            },
+            {
+                "year": 22
+            },
+            {
+                "western": 20
+            },
+            {
+                "career": 20
+            },
+            {
+                "director": 20
+            },
+            {
+                "john": 20
+            }
+        ]
+    },
+    "radio broadcaster": {
+        "count": 79,
+        "frequent_words": [
+            {
+                "radio": 150
+            },
+            {
+                "show": 49
+            },
+            {
+                "broadcaster": 47
+            },
+            {
+                "year": 44
+            },
+            {
+                "station": 33
+            },
+            {
+                "program": 30
+            },
+            {
+                "alvin": 30
+            },
+            {
+                "host": 28
+            },
+            {
+                "american": 26
+            },
+            {
+                "journalist": 26
+            },
+            {
+                "new": 26
+            },
+            {
+                "television": 25
+            },
+            {
+                "work": 24
+            },
+            {
+                "broadcast": 24
+            },
+            {
+                "music": 23
+            },
+            {
+                "career": 22
+            },
+            {
+                "news": 22
+            },
+            {
+                "first": 22
+            },
+            {
+                "worked": 20
+            },
+            {
+                "national": 19
+            }
+        ]
+    },
+    "deejay": {
+        "count": 38,
+        "frequent_words": [
+            {
+                "album": 30
+            },
+            {
+                "reggae": 28
+            },
+            {
+                "jamaica": 28
+            },
+            {
+                "dancehall": 27
+            },
+            {
+                "deejay": 25
+            },
+            {
+                "released": 21
+            },
+            {
+                "music": 20
+            },
+            {
+                "jamaican": 18
+            },
+            {
+                "single": 18
+            },
+            {
+                "singer": 17
+            },
+            {
+                "new": 17
+            },
+            {
+                "artist": 15
+            },
+            {
+                "song": 13
+            },
+            {
+                "better": 12
+            },
+            {
+                "record": 12
+            },
+            {
+                "kingston": 11
+            },
+            {
+                "radio": 11
+            },
+            {
+                "stage": 11
+            },
+            {
+                "january": 10
+            },
+            {
+                "year": 10
+            }
+        ]
+    },
+    "geographer": {
+        "count": 61,
+        "frequent_words": [
+            {
+                "geographer": 52
+            },
+            {
+                "geography": 36
+            },
+            {
+                "de": 33
+            },
+            {
+                "university": 32
+            },
+            {
+                "professor": 24
+            },
+            {
+                "world": 20
+            },
+            {
+                "carpenter": 20
+            },
+            {
+                "work": 19
+            },
+            {
+                "year": 19
+            },
+            {
+                "geographical": 19
+            },
+            {
+                "first": 16
+            },
+            {
+                "history": 16
+            },
+            {
+                "russian": 15
+            },
+            {
+                "science": 14
+            },
+            {
+                "member": 14
+            },
+            {
+                "book": 14
+            },
+            {
+                "study": 14
+            },
+            {
+                "college": 13
+            },
+            {
+                "named": 12
+            },
+            {
+                "january": 12
+            }
+        ]
+    },
+    "mountaineer": {
+        "count": 100,
+        "frequent_words": [
+            {
+                "first": 129
+            },
+            {
+                "everest": 116
+            },
+            {
+                "summit": 103
+            },
+            {
+                "mountaineer": 97
+            },
+            {
+                "mountain": 72
+            },
+            {
+                "mount": 70
+            },
+            {
+                "ascent": 61
+            },
+            {
+                "climb": 57
+            },
+            {
+                "expedition": 56
+            },
+            {
+                "climbing": 54
+            },
+            {
+                "may": 53
+            },
+            {
+                "climber": 53
+            },
+            {
+                "peak": 49
+            },
+            {
+                "sherpa": 44
+            },
+            {
+                "world": 43
+            },
+            {
+                "made": 37
+            },
+            {
+                "woman": 36
+            },
+            {
+                "american": 33
+            },
+            {
+                "climbed": 33
+            },
+            {
+                "time": 31
+            }
+        ]
+    },
+    "soloist": {
+        "count": 25,
+        "frequent_words": [
+            {
+                "music": 25
+            },
+            {
+                "orchestra": 22
+            },
+            {
+                "gruppman": 18
+            },
+            {
+                "philharmonic": 15
+            },
+            {
+                "artist": 12
+            },
+            {
+                "american": 12
+            },
+            {
+                "university": 11
+            },
+            {
+                "moscow": 11
+            },
+            {
+                "international": 10
+            },
+            {
+                "soloist": 10
+            },
+            {
+                "recording": 9
+            },
+            {
+                "professor": 9
+            },
+            {
+                "igor": 9
+            },
+            {
+                "world": 8
+            },
+            {
+                "player": 8
+            },
+            {
+                "teacher": 8
+            },
+            {
+                "organ": 8
+            },
+            {
+                "royal": 8
+            },
+            {
+                "classical": 7
+            },
+            {
+                "jazz": 7
+            }
+        ]
+    },
+    "sportsperson": {
+        "count": 7,
+        "frequent_words": [
+            {
+                "first": 6
+            },
+            {
+                "northwest": 6
+            },
+            {
+                "territory": 6
+            },
+            {
+                "india": 5
+            },
+            {
+                "woman": 5
+            },
+            {
+                "event": 5
+            },
+            {
+                "indian": 4
+            },
+            {
+                "member": 4
+            },
+            {
+                "term": 4
+            },
+            {
+                "final": 4
+            },
+            {
+                "mccallum": 3
+            },
+            {
+                "served": 3
+            },
+            {
+                "legislature": 3
+            },
+            {
+                "general": 3
+            },
+            {
+                "election": 3
+            },
+            {
+                "represented": 3
+            },
+            {
+                "olympics": 3
+            },
+            {
+                "lost": 3
+            },
+            {
+                "round": 3
+            },
+            {
+                "president": 3
+            }
+        ]
+    },
+    "fitness instructor": {
+        "count": 8,
+        "frequent_words": [
+            {
+                "fitness": 12
+            },
+            {
+                "houston": 4
+            },
+            {
+                "sc": 4
+            },
+            {
+                "frankfurt": 4
+            },
+            {
+                "coach": 4
+            },
+            {
+                "instructor": 4
+            },
+            {
+                "season": 4
+            },
+            {
+                "july": 3
+            },
+            {
+                "actress": 3
+            },
+            {
+                "german": 3
+            },
+            {
+                "germany": 3
+            },
+            {
+                "club": 3
+            },
+            {
+                "myrander": 3
+            },
+            {
+                "light": 3
+            },
+            {
+                "new": 3
+            },
+            {
+                "rugby": 2
+            },
+            {
+                "union": 2
+            },
+            {
+                "played": 2
+            },
+            {
+                "national": 2
+            },
+            {
+                "team": 2
+            }
+        ]
+    },
+    "data scientist": {
+        "count": 2,
+        "frequent_words": [
+            {
+                "lee": 3
+            },
+            {
+                "messaging": 3
+            },
+            {
+                "paper": 3
+            },
+            {
+                "data": 2
+            },
+            {
+                "scientist": 2
+            },
+            {
+                "thesis": 2
+            },
+            {
+                "exposure": 2
+            },
+            {
+                "medium": 2
+            },
+            {
+                "acceptability": 2
+            },
+            {
+                "text": 2
+            },
+            {
+                "received": 2
+            },
+            {
+                "society": 2
+            },
+            {
+                "joan": 1
+            },
+            {
+                "canadian": 1
+            },
+            {
+                "linguist": 1
+            },
+            {
+                "master": 1
+            },
+            {
+                "art": 1
+            },
+            {
+                "entitled": 1
+            },
+            {
+                "txting": 1
+            },
+            {
+                "language": 1
+            }
+        ]
+    },
+    "parliamentarian": {
+        "count": 24,
+        "frequent_words": [
+            {
+                "member": 22
+            },
+            {
+                "hill": 19
+            },
+            {
+                "british": 18
+            },
+            {
+                "parliament": 17
+            },
+            {
+                "lord": 14
+            },
+            {
+                "sir": 11
+            },
+            {
+                "politician": 11
+            },
+            {
+                "davenport": 11
+            },
+            {
+                "first": 10
+            },
+            {
+                "college": 10
+            },
+            {
+                "party": 10
+            },
+            {
+                "south": 10
+            },
+            {
+                "house": 10
+            },
+            {
+                "peer": 9
+            },
+            {
+                "berkeley": 9
+            },
+            {
+                "richard": 8
+            },
+            {
+                "london": 8
+            },
+            {
+                "parliamentary": 8
+            },
+            {
+                "francis": 8
+            },
+            {
+                "september": 8
+            }
+        ]
+    },
+    "locksmith": {
+        "count": 8,
+        "frequent_words": [
+            {
+                "germany": 8
+            },
+            {
+                "severing": 5
+            },
+            {
+                "locksmith": 4
+            },
+            {
+                "child": 4
+            },
+            {
+                "may": 4
+            },
+            {
+                "minister": 4
+            },
+            {
+                "prussia": 4
+            },
+            {
+                "german": 3
+            },
+            {
+                "relationship": 3
+            },
+            {
+                "two": 3
+            },
+            {
+                "three": 3
+            },
+            {
+                "brower": 3
+            },
+            {
+                "july": 3
+            },
+            {
+                "automobile": 3
+            },
+            {
+                "year": 3
+            },
+            {
+                "city": 3
+            },
+            {
+                "right": 3
+            },
+            {
+                "roxas": 3
+            },
+            {
+                "world": 3
+            },
+            {
+                "interior": 3
+            }
+        ]
+    },
+    "narration": {
+        "count": 1,
+        "frequent_words": [
+            {
+                "toronto": 2
+            },
+            {
+                "announcer": 2
+            },
+            {
+                "andy": 1
+            },
+            {
+                "frost": 1
+            },
+            {
+                "april": 1
+            },
+            {
+                "winnipeg": 1
+            },
+            {
+                "manitoba": 1
+            },
+            {
+                "radio": 1
+            },
+            {
+                "personality": 1
+            },
+            {
+                "well": 1
+            },
+            {
+                "public": 1
+            },
+            {
+                "address": 1
+            },
+            {
+                "air": 1
+            },
+            {
+                "canada": 1
+            },
+            {
+                "centre": 1
+            },
+            {
+                "maple": 1
+            },
+            {
+                "leaf": 1
+            },
+            {
+                "replaced": 1
+            },
+            {
+                "pa": 1
+            },
+            {
+                "paul": 1
+            }
+        ]
+    },
+    "naval surgeon": {
+        "count": 1,
+        "frequent_words": [
+            {
+                "medical": 2
+            },
+            {
+                "john": 1
+            },
+            {
+                "covert": 1
+            },
+            {
+                "boyd": 1
+            },
+            {
+                "december": 1
+            },
+            {
+                "july": 1
+            },
+            {
+                "surgeon": 1
+            },
+            {
+                "director": 1
+            },
+            {
+                "united": 1
+            },
+            {
+                "state": 1
+            },
+            {
+                "navy": 1
+            },
+            {
+                "corp": 1
+            },
+            {
+                "incorporators": 1
+            },
+            {
+                "american": 1
+            },
+            {
+                "red": 1
+            },
+            {
+                "cross": 1
+            },
+            {
+                "founder": 1
+            },
+            {
+                "kappa": 1
+            },
+            {
+                "sigma": 1
+            },
+            {
+                "fraternity": 1
+            }
+        ]
+    }
+}
