@@ -19,6 +19,11 @@ nltk.download('stopwords')
 nltk.download('punkt')
 nltk.download('wordnet')
 
+import os
+import json
+from collections import defaultdict
+import numpy as np
+
 def build_probability_matrix_from_list(data, feature_set):
     lemmatizer = WordNetLemmatizer()
     feature_counts = Counter()
@@ -97,21 +102,23 @@ def save_sorted_probabilities(feature_list, probability_matrix, feature_counts, 
 
 
 def preprocess_text(text):
-    """Tokenize, lemmatize, and clean text."""
+    """Tokenize, lemmatize, and clean text by retaining only alphabetic tokens."""
     lemmatizer = WordNetLemmatizer()
     tokens = word_tokenize(text.lower())
-    # Define stopwords and punctuation
+    
+    # Define stopwords (including custom ones)
     stop_words = set(stopwords.words('english'))
     custom_stop_words = {'also', 'known', 'later', 'born', 'became', 'lxi', 'lx', '``', '-lrb-', '-rrb-', "'s", '--'}
     stop_words.update(custom_stop_words)
-    punctuation = set('!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~')
     
     cleaned = []
     for token in tokens:
-        if token not in stop_words and token not in punctuation:
+        # Retain only tokens that are purely alphabetic and not in the stop words
+        if token.isalpha() and token not in stop_words:
             lemma = lemmatizer.lemmatize(token)
             cleaned.append(lemma)
     return cleaned
+
 
 def get_feature_probabilities(occupation_groups, top_n=50):
     """Calculate P(f|occupation) for top features, and construct co-occurrence matrices.
@@ -204,3 +211,19 @@ def plot_heatmap(data, occupation):
     plt.xlabel('Features', fontsize=12)
     plt.ylabel('Features', fontsize=12)
     plt.show()
+
+# Save feature probabilities (already JSON-serializable)
+def save_feature_probs(feature_probs, output_path):
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(feature_probs, f, indent=2, ensure_ascii=False)
+
+# Save all_matrices by converting NumPy arrays to lists
+def save_all_matrices(all_matrices, output_path):
+    all_matrices_serializable = {}
+    for occ, mat_dict in all_matrices.items():
+        all_matrices_serializable[occ] = {
+            "features": mat_dict["features"],
+            "matrix": mat_dict["matrix"].tolist()  # convert NumPy array to list
+        }
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(all_matrices_serializable, f, indent=2, ensure_ascii=False)
